@@ -15,4 +15,4 @@ jobs:
           feed-url: https://www.webdong.dev/rss.xml
           readme-section: feed
           max: 10
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          template: "#### [{{ title }}]({{ link }}) \n{{ contentSnippet }}\n\n"
