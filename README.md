@@ -7,7 +7,7 @@
 
 <!--START_SECTION:feed-->
 #### [為什麼 TypeScript 中 Object.keys 返回 string[] 型別？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;post&#x2F;why-object-keys-returns-array-of-strings-in-typescript&#x2F;) 
-TypeScript 存在一些不太直覺但背後卻有合理因素的問題要留意，像是無論傳入任何內容進 &#x60;Object.keys&#x60; 都仍會回傳 &#x60;string[]&#x60; 型別是其中之一，本文探討背後因素與提供不同方向的解套方法供不同情境使用。
+TypeScript 存在一些不太直覺但背後卻有合理因素的問題要留意，像是無論傳入任何物件進 &#x60;Object.keys&#x60; 都仍會回傳 &#x60;string[]&#x60; 型別是其中之一，本文探討背後因素與提供不同方向的解套方法供不同情境使用。
 #### [如何編寫 GitHub 個人檔案](https:&#x2F;&#x2F;www.webdong.dev&#x2F;post&#x2F;how-i-write-github-profile&#x2F;) 
 「如何編寫 GitHub 個人檔案」這個問題其實就像是「開發者怎麼製作自己的名片」，畢竟對你感興趣的人來說 GitHub 個人檔案就是第一印象，所以可以斟酌放些「你熱愛參與的專案或展示專業」基本不會錯。像我有熱情持續經營展現技術部落格那就放上最大篇幅去介紹，把作品、部落格或履歷放上。
 #### [實作電影院座位選位系統](https:&#x2F;&#x2F;www.webdong.dev&#x2F;post&#x2F;cinema-seats-layout&#x2F;) 
