@@ -1,8 +1,10 @@
 <h3 >Hi 👋, I'm Riceball</h3>
 <p>A self-taught frontend developer from Taiwan, Passionate about developing interesting web apps!</p>
 
-- [🏡Personal Website](https://weweweb.pages.dev/)
-- [📝Webdong Blog](https://www.webdong.dev/)
+- [📜 Resume](https://weweweb.pages.dev/en/resume/)
+- [💼 Portfolio](https://weweweb.pages.dev/en/work/)
+- [🏡 Personal Website](https://weweweb.pages.dev/en/)
+- [📝 Blog](https://www.webdong.dev/en/)
 ---
 
 <!--START_SECTION:feed-->
