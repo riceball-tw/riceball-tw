@@ -18,5 +18,7 @@ The previous series discussed creating a simple CRUD App with Express.js using M
 When using packages, one often wonders about the general process of managing package development. So I write the process of publish a TS package
 #### [撰写自动化发布语义化版本 TypeScript NPM 套件](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;auto-publish-typescript-package-with-semver-to-npm&#x2F;) 
 使用套件时总是会好奇一般管理套件开发的流程是如何？我通过 Matt Pocock 的 Blazing Fast Tips: Publishing to NPM 教学视频顺手实作了一次，并且把自己之前遇过的需求写成一个独立的 TS 套件公开发布：edit-element。
+#### [撰寫自動化發布語意化版本 TypeScript NPM 套件](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;auto-publish-typescript-package-with-semver-to-npm&#x2F;) 
+使用套件時總是會好奇一般管理套件開發的流程是如何？我透過 Matt Pocock 的 Blazing Fast Tips: Publishing to NPM 教學影片順手實作了一次，並且把自己之前遇過的需求寫成一個獨立的 TS 套件公開發布：edit-element。
 <!--END_SECTION:feed-->
 
