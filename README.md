@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [後端入門可以了解的資料庫概念](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;database-concepts-for-backend-beginners&#x2F;) 
+資料庫就是一個儲存資料的軟體，根據儲存資料性質不同，合適的資料庫種類也會不同。了解 Transaction、ACID、Normalization……等核心概念非常重要。還有更多可以深掘的細節，先單純把學到的知識紀錄一下，未來個別用更多文章詳細描述 :)
 #### [Build a Membership System with Express.js Session](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;express-session&#x2F;) 
 Due to HTTP being stateless, users need to re-validate on each login action. A solution is for the server to create a session upon request.
 #### [使用 Express.js Session 实作会员系统](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;express-session&#x2F;) 
@@ -18,7 +20,5 @@ Due to HTTP being stateless, users need to re-validate on each login action. A s
 Few tutorials cover how to build a complete project. This is how I would build a Vue project from scratch in 2025!
 #### [如何架构一个超赞的前端专案于 2025 年 (feat. Vue)](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;how-to-build-a-awesome-frontend-project-in-2025&#x2F;) 
 随着前端演进，我们时常需要依靠现成的框架轮子协助，而其中Vue 又是继React 外第二热门且成熟的选项，但很少有教学提到一个完整的专案该如何建构，以及有哪些模式可以遵循。这次来介绍一下如果从头开始我会怎么建构一个 Vue 专案，在 2025 年！
-#### [如何架構一個超讚的前端專案於 2025 年 (feat. Vue)](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;how-to-build-a-awesome-frontend-project-in-2025&#x2F;) 
-隨著前端演進，我們時常需要依靠現成的框架輪子協助，而其中 Vue 又是繼 React 外第二熱門且成熟的選項，但很少有教學提到一個完整的專案該如何建構，以及有哪些模式可以遵循。這次來介紹一下如果從頭開始我會怎麼建構一個 Vue 專案，在 2025 年！
 <!--END_SECTION:feed-->
 
