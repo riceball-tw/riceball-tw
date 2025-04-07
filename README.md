@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [關於 HTML 錨點標籤 &lt;a&gt; 相關的 SEO 知識](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;anchor-tag-seo&#x2F;) 
+了解 &#x60;&#x60; 是網頁資源相互連結、搜尋引擎排序判斷的關鍵，甚至與資安也有一定的關聯，對於 SEO 與前端來說是必須了解的知識點之一。搜尋引擎仰賴 HTML 文件中的 &#x60;&#x60; 標籤了解頁面之間的關聯並進而評分，理解 &#x60;&#x60; 能夠更好的處理與標示頁面與頁面之間的關係。
 #### [Important Concepts for Beginners in n8n](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;n8n-important-concepts&#x2F;) 
 Recently, while trying out n8n, I encountered quite a few troubles. However, after resolving the issues, I felt that they were small problems.
 #### [n8n 几个初学最重要的概念](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;n8n-important-concepts&#x2F;) 
@@ -18,7 +20,5 @@ Recently, while trying out n8n, I encountered quite a few troubles. However, aft
 The website&#39;s content are recorded in Git. This decision has its pros and cons, As the project matures, I&#39;ve decided to separate the two.
 #### [整合不同 Git 仓库在一起（符号链接、Git 子模块）](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;merge-different-git-repo&#x2F;) 
 网页东东至今仍完全以本地为主，所有代码、字体、图片影片与文章内容都记录于 Git 当中，并通过 Git LFS 来管理大文件。这样的决定有好有坏，其中一个问题便是内容与代码的耦合高，任何一个想维护的人要把我撰写的几百篇文章连带抓下来 😅，随着项目成熟我决定要将两者分离。
-#### [整合不同 Git 倉庫在一起（Symbolic Link、Git Submodule）](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;merge-different-git-repo&#x2F;) 
-網頁東東至今仍完全以本地為主，所有代碼、字體、圖片影片與文章內容都紀錄於 Git 當中，並透過 Git LFS 來管理大檔案。這樣的決定有好有壞，其中一個問題便是內容與代碼的耦合高，任何一個想維護的人要把我撰寫的幾百篇文章連帶抓下來 😅，隨著專案成熟我決定要將兩者分離。
 <!--END_SECTION:feed-->
 
