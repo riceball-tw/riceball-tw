@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [使用 Edge Function 生成 OG 圖，建構時間縮短 90%](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;cloudflare-functions-og-image-generation&#x2F;) 
+隨著部落格文章逐漸增多，靜態生成壓力也隨之上升，舉例來說在日常開發會需要花費近 10 分鐘的時間，大多是生成圖片佔據大多時間，建構預覽圖的數量是：&#x60;(語言 x 文章數量)&#x60;。延續最大程度的靜態渲染是合理的選擇，而針對 OG 圖片渲染可以包成 Serverless Function 在需要時呼叫。
 #### [SEO Knowledge Related to HTML Anchor Tag &lt;a&gt;](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;anchor-tag-seo&#x2F;) 
 Search engines rely on the &#x60;&#x60; tags in HTML documents to understand the relationships between pages and to score them accordingly.
 #### [关于 HTML 锚点标签 &lt;a&gt; 相关的 SEO 知识](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;anchor-tag-seo&#x2F;) 
@@ -18,7 +20,5 @@ Search engines rely on the &#x60;&#x60; tags in HTML documents to understand the
 Recently, while trying out n8n, I encountered quite a few troubles. However, after resolving the issues, I felt that they were small problems.
 #### [n8n 几个初学最重要的概念](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;n8n-important-concepts&#x2F;) 
 近期在尝试 n8n 时碰上了不少麻烦，但在问题解决后觉得其实也不是什么太大的问题但就是莫名的卡住流失了许多时间，我踩过的坑或许也是你踩过的坑。这篇文章适合像我一样没特别看文件直接跳进去玩的开发者，后续细读文件反省把问题都列出来。
-#### [n8n 幾個初學最重要的概念](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;n8n-important-concepts&#x2F;) 
-近期在嘗試 n8n 時碰上了不少麻煩，但在問題解決後覺得其實也不是什麼太大的問題但就是莫名的卡住流失了許多時間，我踩過的坑或許也是你踩過的坑。這篇文章適合像我一樣沒特別看文件直接跳進去玩的開發者，後續細讀文件反省把問題都列出來。
 <!--END_SECTION:feed-->
 
