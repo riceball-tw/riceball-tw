@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [前端必知的存儲方案：Cookie vs LocalStorage vs SessionStorage](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;frontend-storage-cookie-localstorage-sessionstorage&#x2F;) 
+身在前端有幾個必須知道的瀏覽器存儲方案，重點差異在於： 容量上限、有效期限設置、是否與伺服器互動 ，各自有不同的特性適合運用於不同場景。之外也有許多延伸的問題如： Cookie 與法規、資安漏洞防範相關設定、除存字串以外的資料結構。
 #### [Should I Guess Answer on the Test?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;should-i-guess-answer-on-the-test&#x2F;) 
 While discussing test questions in interviews with friends, I encountered the view that it’s better to leave blanks than to guess.
 #### [面试时不懂应该猜答案吗？为什么？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;should-i-guess-answer-on-the-test&#x2F;) 
@@ -18,7 +20,5 @@ While discussing test questions in interviews with friends, I encountered the vi
 As the number of blog posts increases, the pressure on static generation rises, specifically about 10 minutes spent generating images for previews.
 #### [使用 Edge Function 生成 OG 图，构建时间缩短 90%](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;cloudflare-functions-og-image-generation&#x2F;) 
 随着博客文章逐渐增多，静态生成压力也随之上升，例来说在日常开发会需要近 10 分钟的时间，大多是生成图片占据大多时间，建构预览图的数量是：&#x60;(语言 x 文章数量)&#x60;。延续最大程度的静态渲染是合理的选择，而针对 OG 图片渲染可以包成 Serverless Function 在需要时呼叫。
-#### [使用 Edge Function 生成 OG 圖，建構時間縮短 90%](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;cloudflare-functions-og-image-generation&#x2F;) 
-隨著部落格文章逐漸增多，靜態生成壓力也隨之上升，舉例來說在日常開發會需要花費近 10 分鐘的時間，大多是生成圖片佔據大多時間，建構預覽圖的數量是：&#x60;(語言 x 文章數量)&#x60;。延續最大程度的靜態渲染是合理的選擇，而針對 OG 圖片渲染可以包成 Serverless Function 在需要時呼叫。
 <!--END_SECTION:feed-->
 
