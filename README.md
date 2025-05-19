@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [有效面對衝突的方式：不同意但致力](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;disagree-and-commit&#x2F;) 
+在團隊中衝突是不可避免的，發現遇到太多次需要解釋對於團隊衝突的看法：「不同意但致力（Disagree and Commit）」，所以特別重複習一次並寫成文章推廣。1. 鼓勵討論 2. 設立決策停損點 3. 不要事成定局後，方才提出意見或辦法。
 #### [Finite and Infinite Games and Gaming Impotence](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;finite-and-infinite-games-and-gaming-impotence&#x2F;) 
 To clarify my feelings of Gaming impotence, I recalled a book recommendation, &quot;Finite and Infinite Games,&quot; which discusses two game concepts.
 #### [有限与无限游戏看待电子阳痿](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;finite-and-infinite-games-and-gaming-impotence&#x2F;) 
@@ -18,7 +20,5 @@ To clarify my feelings of Gaming impotence, I recalled a book recommendation, &q
 When creating multilingual websites, many focus on translation accuracy or switching locale experience, often overlooking the crucial SEO setting: &#x60;hreflang&#x60;.
 #### [多语言网站当中的 hreflang 是什么？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;what-is-meta-hreflang-in-i18n-website&#x2F;) 
 在打造多语系网站时，许多人会关注翻译的准确度或切换体验，但往往忽略了一个对 SEO 非常关键的设定：&#x60;hreflang&#x60;。正好最近把部落格和个人网站模板的多语系都调整完成，它们都是需要重视 SEO 的静态内容网站类型，其中的经验我纪录于这篇文章当中。
-#### [多語系網站當中的 hreflang 是什麼？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-meta-hreflang-in-i18n-website&#x2F;) 
-在打造多語系網站時，許多人會關注翻譯的準確度或切換體驗，但往往忽略了一個對 SEO 非常關鍵的設定：&#x60;hreflang&#x60;。正好最近把部落格和個人網站模板的多語系都調整完成，它們都是需要重視 SEO 的靜態內容網站類型，其中的經驗我紀錄於這篇文章當中。
 <!--END_SECTION:feed-->
 
