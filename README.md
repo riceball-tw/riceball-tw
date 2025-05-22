@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [挑戰改善 104 人力銀行網站清單載入體驗](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;improve-104-hr-service-website-menu-loading-experience&#x2F;) 
+近期很頻繁使用到臺灣最知名的求職平台：104 人力銀行，其中個人資料選單的體驗有潛在的問題值得挖掘。就目前 104 的體驗對我來說沒什麼好抱怨的，就是最少這個 &#x60;0&#x60; 如果能改成 &#x60;-&#x60; 或 &#x60;載入中&#x60; 代表無資料都清楚得多阿！就和 &#x60;0&#x60; 與 &#x60;null&#x60; 一樣，它們相近的意義是不同的。
 #### [How to deal with conflict effectively: Disagree and commit](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;disagree-and-commit&#x2F;) 
 Here&#39;s a guide on &quot;Disagree and Commit&quot;. Encourage discussion, Set decision deadlines, Avoid criticism after decisions are made.
 #### [有效面對冲突的方式：不同意但致力](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;disagree-and-commit&#x2F;) 
@@ -18,7 +20,5 @@ Here&#39;s a guide on &quot;Disagree and Commit&quot;. Encourage discussion, Set
 To clarify my feelings of Gaming impotence, I recalled a book recommendation, &quot;Finite and Infinite Games,&quot; which discusses two game concepts.
 #### [有限与无限游戏看待电子阳痿](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;finite-and-infinite-games-and-gaming-impotence&#x2F;) 
 为了厘清自己电子阳痿或对事情提不起兴趣的念头，一直回忆起某天偶然读到一本书的推荐《有限与无限的游戏》，里面提到世上有两种游戏的概念发现对于梳理看待「游戏观」是有帮助的。不幸的是，时间确实在流逝。时间飞快地流逝。过去在增加，未来在减少。可能性在减少，遗憾在增加。
-#### [有限與無限遊戲看待電子陽痿](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;finite-and-infinite-games-and-gaming-impotence&#x2F;) 
-為了釐清自己電子陽痿或對事情提不起興趣的念頭，一直回憶起某天偶然讀到一本書的推薦《有限與無限的遊戲》，裡面提到世上有兩種遊戲的概念發現對於梳理看待「遊戲觀」是有幫助的。不幸的是，時間確實在流逝。時間飛快地流逝。過去在增加，未來在減少。可能性在減少，遺憾在增加。
 <!--END_SECTION:feed-->
 
