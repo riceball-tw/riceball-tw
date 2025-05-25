@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [與關聯式資料庫對話：SQL vs SQL Builder vs ORM](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;sql-sql-builder-orm&#x2F;) 
+開發網站無可避免的會和關聯式資料庫打交道，而互動的方式有三種：SQL、SQL Builder、ORM。這三者有著不同的使用方式、優缺點與適用場景，了解它們的差異能幫助我們做出更適合專案需求的技術選擇。分享我在 Node.js 的學習經歷。
 #### [Improve 104 HR Service Website Menu Loading Experience](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;improve-104-hr-service-website-menu-loading-experience&#x2F;) 
 Recently, I frequently use Taiwan&#39;s most famous job platform: 104 Job Bank, where the personal data menu experience has potential issues worth exploring.
 #### [挑战改善 104 人力银行网站清单载入体验](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;improve-104-hr-service-website-menu-loading-experience&#x2F;) 
@@ -18,7 +20,5 @@ Recently, I frequently use Taiwan&#39;s most famous job platform: 104 Job Bank, 
 Here&#39;s a guide on &quot;Disagree and Commit&quot;. Encourage discussion, Set decision deadlines, Avoid criticism after decisions are made.
 #### [有效面對冲突的方式：不同意但致力](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;disagree-and-commit&#x2F;) 
 在团队中冲突是不可避免的，发现遇到太多次需要解释对于团队冲突的看法：「不同意但致力（Disagree and Commit）」，所以特别重复习一次并写成文章推广。 1. 鼓励讨论 2. 设立决策停损点 3. 不要事成定局后，方才提出意见或办法。
-#### [有效面對衝突的方式：不同意但致力](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;disagree-and-commit&#x2F;) 
-在團隊中衝突是不可避免的，發現遇到太多次需要解釋對於團隊衝突的看法：「不同意但致力（Disagree and Commit）」，所以特別重複習一次並寫成文章推廣。1. 鼓勵討論 2. 設立決策停損點 3. 不要事成定局後，方才提出意見或辦法。
 <!--END_SECTION:feed-->
 
