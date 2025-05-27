@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [初學 Docker 並輕鬆建構 Postgres](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;getting-started-with-docker-and-building-postgres&#x2F;) 
+剛接觸後端時我還不清楚如何有效重現服務供其他開發者使用，直到遇見 Docker 才**大幅簡化各種設施的維護與重現的工作**，是一項非常高回報的實用技能，本篇從實做角度透過 Docker 建構 Postgres 服務，了解它的便捷快速。
 #### [SQL vs SQL Builder vs ORM](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;sql-sql-builder-orm&#x2F;) 
 Interacting with RDB through SQL, SQL Builder, and ORM. Understanding their differences helps us make better choices for project needs.
 #### [与关系数据库对话：SQL vs SQL Builder vs ORM](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;sql-sql-builder-orm&#x2F;) 
@@ -18,7 +20,5 @@ Interacting with RDB through SQL, SQL Builder, and ORM. Understanding their diff
 Recently, I frequently use Taiwan&#39;s most famous job platform: 104 Job Bank, where the personal data menu experience has potential issues worth exploring.
 #### [挑战改善 104 人力银行网站清单载入体验](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;improve-104-hr-service-website-menu-loading-experience&#x2F;) 
 近期很频繁使用到台湾最知名的求职平台：104 人力银行，其中个人资料选单的体验有潜在的问题值得挖掘。就目前 104 的体验对我来说没什么好抱怨的，就是最少这个 &#x60;0&#x60; 如果能改成 &#x60;-&#x60; 或 &#x60;载入中&#x60; 代表无资料都清楚得多阿！就和 &#x60;0&#x60; 与 &#x60;null&#x60; 一样，它们相近的意义是不同的。
-#### [挑戰改善 104 人力銀行網站清單載入體驗](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;improve-104-hr-service-website-menu-loading-experience&#x2F;) 
-近期很頻繁使用到臺灣最知名的求職平台：104 人力銀行，其中個人資料選單的體驗有潛在的問題值得挖掘。就目前 104 的體驗對我來說沒什麼好抱怨的，就是最少這個 &#x60;0&#x60; 如果能改成 &#x60;-&#x60; 或 &#x60;載入中&#x60; 代表無資料都清楚得多阿！就和 &#x60;0&#x60; 與 &#x60;null&#x60; 一樣，它們相近的意義是不同的。
 <!--END_SECTION:feed-->
 
