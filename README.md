@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [實作可拖動 DOM 元素增添網站互動與趣味性](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;implement-draggable-dom-element-to-make-website-more-interactive-and-fun&#x2F;) 
+最初是看到 Glitch 網站 圖示像冰箱磁鐵可以隨意挪動的功能覺得充滿趣味，背後是使用 react-draggable 套件製作。不過考慮到速度與維護性，部落格不打算因為一頁特效就引入額外套件，所以從頭用 DOM API 手刻了相關功能。
 #### [設置 Drizzle ORM 連接 Postgres 為範例](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;connect-postgres-with-drizzle-orm&#x2F;) 
 單純透過 SQL 與關聯式資料庫直接溝通，可能會帶來開發效率與安全性的問題，因此挑選一款合適的 ORM 多一層抽象是常見的選擇，而 Drizzle ORM 是我最常使用也是接觸 ORM 的起點。它在 TypeScript 生態中有出色支援，雖然相對新穎，但社群活躍，值得一試。
 #### [Getting Started with Docker and Building Postgres](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;getting-started-with-docker-and-building-postgres&#x2F;) 
@@ -18,7 +20,5 @@ When I first in backend development, I struggled to effectively reproduce servic
 剛接觸後端時我還不清楚如何有效重現服務供其他開發者使用，直到遇見 Docker 才大幅簡化各種設施的維護與重現的工作，是一項非常高回報的實用技能，本篇從實做角度透過 Docker 建構 Postgres 服務，了解它的便捷快速。
 #### [SQL vs SQL Builder vs ORM](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;sql-sql-builder-orm&#x2F;) 
 Interacting with RDB through SQL, SQL Builder, and ORM. Understanding their differences helps us make better choices for project needs.
-#### [与关系数据库对话：SQL vs SQL Builder vs ORM](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;sql-sql-builder-orm&#x2F;) 
-开发网站无可避免的会和关联式资料库打交道，而互动的方式有三种：SQL、SQL Builder、ORM。这三者有着不同的使用方式、优缺点与适用场景，了解它们的差异能帮助我们做出更适合专案需求的技术选择。分享我在 Node.js 的学习经历。
 <!--END_SECTION:feed-->
 
