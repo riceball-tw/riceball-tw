@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [從網頁演進看 Jamstack 如何解決傳統架構的痛點](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;jamstack&#x2F;) 
+要了解 Jamstack 架構解決什麼問題，需要先回顧網頁演變的歷史，從靜態檔案到動態伺服器渲染再到客戶端渲染，Jamstack 的核心概念是強調預先生成靜態頁面並解耦商業邏輯與內容，以提高網站效能、彈性與安全性。適合大多數動態資料不多的網站。
 #### [Fade in and out Content through CSS Pseudo Element](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;fade-in-and-out-content-through-css-pseudo-element&#x2F;) 
 I found the my online resume a bit off, resulting in a lack of indication to scroll down. To achieve a fade-in style using CSS pseudo elements.
 #### [通过渐变伪元素淡入淡出可滚动内容](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;fade-in-and-out-content-through-css-pseudo-element&#x2F;) 
@@ -18,7 +20,5 @@ I found the my online resume a bit off, resulting in a lack of indication to scr
 Initially inspired by the Glitch website&#39;s draggable features, I created a DOM API-based solution instead of using additional packages.
 #### [实作可拖动 DOM 元素增添网站互动与趣味性](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;implement-draggable-dom-element-to-make-website-more-interactive-and-fun&#x2F;) 
 最初是看到 Glitch 网站 图示像冰箱磁铁可以随意挪动的功能觉得充满趣味，背后是使用 react-draggable 套件制作。不过考虑到速度与维护性，部落格不打算因为一页特效就引入额外套件，所以从头用 DOM API 手刻了相关功能。
-#### [實作可拖動 DOM 元素增添網站互動與趣味性](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;implement-draggable-dom-element-to-make-website-more-interactive-and-fun&#x2F;) 
-最初是看到 Glitch 網站 圖示像冰箱磁鐵可以隨意挪動的功能覺得充滿趣味，背後是使用 react-draggable 套件製作。不過考慮到速度與維護性，部落格不打算因為一頁特效就引入額外套件，所以從頭用 DOM API 手刻了相關功能。
 <!--END_SECTION:feed-->
 
