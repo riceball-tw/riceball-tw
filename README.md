@@ -8,8 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
-#### [為什麼你需要 JWT？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-and-why-jwt&#x2F;) 
-JWT 也就是 JSON Web Token，一個基於 RFC 7519 的標準，可用於在兩個實體（如前端和後端）間進行 JSON 物件的傳輸。由 header、payload、signature 三種資料所構成，透過 . 來區隔並使用 Base64 編碼以便傳輸。
+#### [什麼是 JWT 以及它解決了什麼問題？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-and-why-jwt&#x2F;) 
+JWT 也就是 JSON Web Token，一個基於 RFC 751 的標準，可用於在兩個實體（如前端和後端）間進行 JSON 物件的傳輸。由 header、payload、signature 三種資料所構成，透過 . 來區隔並使用 Base64 編碼以便傳輸。
 #### [瞭解「驗證」和「授權」的差別](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;authentication-and-authorization&#x2F;) 
 驗證（Authentication）與授權（Authorization）是存取控制中兩個常被混淆的概念，背後分別代表兩種問題：你是誰？你被允許做哪些事？同時也將介紹幾種常見的授權模式，例如 RBAC 與 ABAC 管理授權。
 #### [How Jamstack Solves the Problems](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;jamstack&#x2F;) 
