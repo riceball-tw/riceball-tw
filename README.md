@@ -8,17 +8,17 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [What is Vue defineExpose?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;vue-define-expose&#x2F;) 
+You may know that Vue components communicate through props down and events up or Scoped Slots to pass info. Another approach is defineExpose.
+#### [Vue defineExpose 是啥？子组件如何沟通？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;vue-define-expose&#x2F;) 
+近期要重写很多的 Vue 发现多得是我需要多补充的知识。你可能了解 Vue 组件间通过 props down 与 event up 或是使用 Scoped Slots 来传递信息。还有一种做法是「显式地暴露某些变量或函数给父组件使用」。
+#### [Vue defineExpose 是啥？子元件如何溝通？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;vue-define-expose&#x2F;) 
+近期要重寫很多的 Vue 發現多得是我需要多補充的知識。你可能了解 Vue 元件間透過 props down 與 event up 或是使用 Scoped Slots 來傳遞資訊。還有一種做法是「顯式地暴露某些變數或函式給父組件使用」。
+#### [What is JWT and What Problem Does It Solve?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;what-and-why-jwt&#x2F;) 
+JWT stands for JSON Web Token, a standard based on RFC 751 that is used to transmit JSON objects between two entities.
+#### [什么是 JWT 以及它解决了什么问题？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;what-and-why-jwt&#x2F;) 
+JWT 也就是 JSON Web Token，一个基于 RFC 751 的标准，可用于在两个实体（如前端和后端）间进行 JSON 物件的传输。由 header、payload、signature 三种资料所构成，透过 . 来区隔并使用 Base64 编码以便传输。
 #### [什麼是 JWT 以及它解決了什麼問題？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-and-why-jwt&#x2F;) 
-JWT 也就是 JSON Web Token，一個基於 RFC 751 的標準，可用於在兩個實體（如前端和後端）間進行 JSON 物件的傳輸。由 header、payload、signature 三種資料所構成，透過 . 來區隔並使用 Base64 編碼以便傳輸。
-#### [Difference Between &quot;Authentication&quot; and &quot;Authorization&quot;](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;authentication-and-authorization&#x2F;) 
-Authentication and Authorization are two concepts in access control, representing the questions: Who are you? What are you allowed to do?
-#### [了解「验证」和「授权」的差别](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;authentication-and-authorization&#x2F;) 
-验证（Authentication）与授权（Authorization）是存取控制中两个常被混淆的概念，背后分别代表两种问题：你是谁？你被允许做哪些事？同时也将介绍几种常见的授权模式，例如 RBAC 与 ABAC 管理授权。
-#### [瞭解「驗證」和「授權」的差別](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;authentication-and-authorization&#x2F;) 
-驗證（Authentication）與授權（Authorization）是存取控制中兩個常被混淆的概念，背後分別代表兩種問題：你是誰？你被允許做哪些事？同時也將介紹幾種常見的授權模式，例如 RBAC 與 ABAC 管理授權。
-#### [How Jamstack Solves the Problems](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;jamstack&#x2F;) 
-To understand what problems the Jamstack architecture solves, we need to review the history of web evolution, emphasizing pre-generated static pages.
-#### [从网页演进看 Jamstack 如何解决传统架构的痛点](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;jamstack&#x2F;) 
-要了解 Jamstack 架构解决什么问题，需要先回顾网页演变的历史，从静态档案到动态伺服器渲染再到客户端渲染，Jamstack 的核心概念是强调预先生成静态页面并解耦商业逻辑与内容，以提高网站效能、弹性与安全性。适合大多数动态资料不多的网站。
+JWT 也就是 JSON Web Token，一个基于 RFC 751 的标准，可用于在两个实体（如前端和后端）间进行 JSON 物件的传输。由 header、payload、signature 三种资料所构成，透过 . 来区隔并使用 Base64 编码以便传输。
 <!--END_SECTION:feed-->
 
