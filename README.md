@@ -8,8 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
-#### [Cypress 與 Playwright 如何選擇？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;cypress-ve-playwright&#x2F;) 
-在網頁提到 E2E 測試通常有 Cypress 與 Playwright 兩種選項，而兩種測試工具我都嘗試過。單論整體開發體驗來說我更喜歡 Playwright，不過還有更多可以考慮的要素在選擇合適的測試工具。safdojdsfoijsdfoijsd
+#### [Cypress 與 Playwright 如何選擇？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;cypress-vs-playwright&#x2F;) 
+在網頁提到 E2E 測試通常有 Cypress 與 Playwright 兩種選項，而兩種測試工具我都嘗試過。單論整體開發體驗來說我更喜歡 Playwright，不過還有更多可以考慮的要素在選擇合適的測試工具，紀錄我會在意的細節與選擇原因。
 #### [What is the Testing Pyramid? Does it Work?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;testing-pyramid&#x2F;) 
 Recently reviewing some testing concepts, I encountered the testing pyramid from Mike Cohn’s book “Succeeding with Agile: Software Development Using Scrum.”
 #### [什么是测试金字塔？它真的有用吗？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;testing-pyramid&#x2F;) 
