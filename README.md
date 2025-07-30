@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Shadcn 解決什麼問題？為什麼它是 2025 最通用的前端 UI 選項？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;why-shadcn-in-2025&#x2F;) 
+如果你在考慮建立基於 Tailwind 的元件庫這篇文章值得一看，探討當下前端環境背景與 UI 擴充難題與問題是如何保持元件彈性點出 Shadcn 如何成為 2025 最熱門的 Tailwind 元件解決方案，正巧最近又在導入 Vue Shadcn 就來更齊全的回顧這項工具。
 #### [How to Choose Between Cypress and Playwright?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;cypress-vs-playwright&#x2F;) 
 E2E testing often mentions two options: Cypress and Playwright, both of which I&#39;ve tried. While I prefer Playwright overall, there are more factors to consider.
 #### [Cypress 与 Playwright 如何选择？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;cypress-vs-playwright&#x2F;) 
@@ -18,7 +20,5 @@ E2E testing often mentions two options: Cypress and Playwright, both of which I&
 Recently reviewing some testing concepts, I encountered the testing pyramid from Mike Cohn’s book “Succeeding with Agile: Software Development Using Scrum.”
 #### [什么是测试金字塔？它真的有用吗？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;testing-pyramid&#x2F;) 
 近期在回顾一些测试的概念，其中有个测试金字塔的概念来自于 Mike Cohn 的书 《Succeeding with Agile: Software Development Using Scrum》。还没有看过这本书，但这个词汇只要有研究过测试多少都会接触到，这次来重新了解一下并输出自己对这个议题的理解。
-#### [什麼是測試金字塔？它真的有用嗎？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;testing-pyramid&#x2F;) 
-近期在回顧一些測試的概念，其中有個測試金字塔的概念來自於 Mike Cohn 的書 《Succeeding with Agile: Software Development Using Scrum》。還沒有看過這本書，但這個詞彙只要有研究過測試多少都會接觸到，這次來重新了解一下並輸出自己對這個議題的理解。
 <!--END_SECTION:feed-->
 
