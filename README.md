@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [如何透過 TanStack Query 建構更好的前端資料獲取體驗](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;why-use-vue-query&#x2F;) 
+先前文章提到：如何優雅的於 Vue 正確的處理資料載入點出了一些獲取外部資料延伸帶來的問題與實際解方，這次我想透過 TanStack Query 的視角挖掘怎麼建構更好的前端資料獲取體驗。本篇教學繼續延續使用 Vue 框架，不過概念對主流框架基本相通。
 #### [How to Organize Your TypeScript Types](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;how-to-organize-your-typescript-types&#x2F;) 
 TypeScript type definition files are often created as a global type.ts file, but this can cause confusion as projects grow.
 #### [如何管理 TypeScript 类型文件？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;how-to-organize-your-typescript-types&#x2F;) 
@@ -18,7 +20,5 @@ TypeScript 型別定義檔案通常就是在全局創個 type.ts 檔案並把所
 &quot;Writing code is like building a church; once it&#39;s done, we start praying.&quot; and feature flags are a great technique to manage the risks.
 #### [什么是 Feature Flag 以及它解决什么问题？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;what-is-feature-flag&#x2F;) 
 还记得之前参与某个专案使用 Git Flow 的方式管理产品发布，但随着时间过去它与持续进行中的主支线差距越来越大，也是在那次问题之后我更认可 Trunk Based Development 流程的概念，其中提到 Feature Flag 是一种很好的技巧用来降低推送功能的风险与控制程度。
-#### [什麼是 Feature Flag 以及它解決什麼問題？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-feature-flag&#x2F;) 
-還記得之前參與某個專案使用 Git Flow 的方式管理產品發布，但隨著時間過去它與持續進行中的主支線差距越來越大，也是在那次問題之後我更認可 Trunk Based Development 流程的概念，其中提到 Feature Flag 是一種很好的技巧用來降低推送功能的風險與控制程度。
 <!--END_SECTION:feed-->
 
