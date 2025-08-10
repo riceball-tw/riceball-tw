@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [網頁渲染太多東西開始卡頓？讓 List Virtualization 來解決](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;list-virtualization-pattern&#x2F;) 
+渲染永遠是網頁運算中極度耗費效能的一塊瓶頸之一，而在像是儀表板應用或是大量資料清單如社群媒體版面很容易會遇到前端渲染效率上的問題，透過「只渲染看得到的東西」來減少效能負擔。這種模式通常稱作 List Virtualization（虛擬化看不到的東西）或 Windowing（只渲染視窗內的東西）。
 #### [模型上下文協定（Model Context Protocol）是啥？對現代開發者有什麼影響？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-mcp&#x2F;) 
 AI 解決一些上下文清晰的小題目如 LeetCode 會發現它通常有驚人的效率與準確率，然而在真實情境下 AI 通常沒有這麼厲害，因為環境上下文和需求是模糊的，如何更好的讓 AI 看清與外部世界互動能夠達成更有效率的產出，而 MCP 是一種大型語言模型的統一協定幫助達成該目標。
 #### [如何透過 TanStack Query 建構更好的前端資料獲取體驗](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;why-use-vue-query&#x2F;) 
@@ -18,7 +20,5 @@ TypeScript type definition files are often created as a global type.ts file, but
 TypeScript 型别定义档案通常就是在全局创个 type.ts 档案并把所有型别丢里头，随处都能引用很方便，但很多专案初期沿用的习惯到了一定规模就会开始混乱，近期也遇到相关的问题因此研究一下一般有哪些方式管理型别档案。
 #### [如何管理 TypeScript 型別檔案？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;how-to-organize-your-typescript-types&#x2F;) 
 TypeScript 型別定義檔案通常就是在全局創個 type.ts 檔案並把所有型別丟裡頭，隨處都能引用很方便，但很多專案初期沿用的習慣到了一定規模就會開始混亂，近期也遇到相關的問題因此研究一下一般有哪些方式管理型別檔案。
-#### [What Is Feature Flag and What Problem Does It Solve?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;what-is-feature-flag&#x2F;) 
-&quot;Writing code is like building a church; once it&#39;s done, we start praying.&quot; and feature flags are a great technique to manage the risks.
 <!--END_SECTION:feed-->
 
