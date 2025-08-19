@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [透過 Figma MCP 與 Shadcn MCP 透過與 AI 聊天打造前端介面](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;integrate-figmamcp-and-shadcnmcp&#x2F;) 
+UI 通常仰賴設計者與前端耗費大量時間精力進行組織與維護，近期工作上進行前端翻新也遇到大量陳舊代碼需要翻皮的作業，問題是誰有時間一個一個重新替換？嘗試串上 Figma MCP 與 Shadcn MCP Server 讓我們透過與 AI 聊天就能精準打造前端介面。
 #### [Webpage lagging during rendering? Try List Virtualization](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;list-virtualization-pattern&#x2F;) 
 Rendering is performance bottleneck in web, especially in dashboard or large data lists. It skips the performance burden by &quot;only rendering visible items.&quot;
 #### [网页渲染太多东西开始卡顿？让列表虚拟化来解决](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;list-virtualization-pattern&#x2F;) 
@@ -18,7 +20,5 @@ Rendering is performance bottleneck in web, especially in dashboard or large dat
 AI solves clear contextual problems like LeetCode with remarkable efficiency and accuracy. But in real situations, AI struggles. MCP would help.
 #### [模型上下文协议（Model Context Protocol）是什么？对现代开发者有什么影响？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;what-is-mcp&#x2F;) 
 AI 解决一些上下文清晰的小题目如 LeetCode 会发现它通常有惊人的效率与准确率，然而在真实情境下 AI 通常没有这么厉害，因为环境上下文和需求是模糊的，如何更好的让 AI 看清与外部世界互动能够达成更有效率的产出，而 MCP 是一种大型语言模型的统一协定帮助达成该目标。
-#### [模型上下文協定（Model Context Protocol）是啥？對現代開發者有什麼影響？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-mcp&#x2F;) 
-AI 解決一些上下文清晰的小題目如 LeetCode 會發現它通常有驚人的效率與準確率，然而在真實情境下 AI 通常沒有這麼厲害，因為環境上下文和需求是模糊的，如何更好的讓 AI 看清與外部世界互動能夠達成更有效率的產出，而 MCP 是一種大型語言模型的統一協定幫助達成該目標。
 <!--END_SECTION:feed-->
 
