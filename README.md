@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [什麼是單一登入（SSO）？它解決什麼問題？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-sso&#x2F;) 
+不少網站登入時都有關於「Single Sign-On」的選項，且每個人一定都用過，像是只要登入 Google 帳號，就可以橫跨不同服務如 YouTube、Gmail 就是 SSO 的一種實際案例。了解 SSO 如何解決多個服務間登入造成的潛在問題。
 #### [透過 Figma MCP 與 Shadcn MCP 透過與 AI 聊天打造前端介面](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;integrate-figmamcp-and-shadcnmcp&#x2F;) 
 UI 通常仰賴設計者與前端耗費大量時間精力進行組織與維護，近期工作上進行前端翻新也遇到大量陳舊代碼需要翻皮的作業，問題是誰有時間一個一個重新替換？嘗試串上 Figma MCP 與 Shadcn MCP Server 讓我們透過與 AI 聊天就能精準打造前端介面。
 #### [Webpage lagging during rendering? Try List Virtualization](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;list-virtualization-pattern&#x2F;) 
@@ -18,7 +20,5 @@ Rendering is performance bottleneck in web, especially in dashboard or large dat
 渲染永遠是網頁運算中極度耗費效能的一塊瓶頸之一，而在像是儀表板應用或是大量資料清單如社群媒體版面很容易會遇到前端渲染效率上的問題，透過「只渲染看得到的東西」來減少效能負擔。這種模式通常稱作 List Virtualization（虛擬化看不到的東西）或 Windowing（只渲染視窗內的東西）。
 #### [What is the Model Context Protocol?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;what-is-mcp&#x2F;) 
 AI solves clear contextual problems like LeetCode with remarkable efficiency and accuracy. But in real situations, AI struggles. MCP would help.
-#### [模型上下文协议（Model Context Protocol）是什么？对现代开发者有什么影响？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;what-is-mcp&#x2F;) 
-AI 解决一些上下文清晰的小题目如 LeetCode 会发现它通常有惊人的效率与准确率，然而在真实情境下 AI 通常没有这么厉害，因为环境上下文和需求是模糊的，如何更好的让 AI 看清与外部世界互动能够达成更有效率的产出，而 MCP 是一种大型语言模型的统一协定帮助达成该目标。
 <!--END_SECTION:feed-->
 
