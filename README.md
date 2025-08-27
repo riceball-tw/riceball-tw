@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [打造前後端 API 資料合約（GraphQL、tRPC、oRPC）與相關變通方案](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;frontend-and-backend-api-sync&#x2F;) 
+使用 TypeScript 確保程式型別安全以維持大型前端專案的品質和維護性已經是很成熟且常見的做法，但有一項最常見的破口會讓程式變得脆弱且混亂：「程式間 API 溝通」。TypeScript 本身雖然能靜態檢查程式內部的型別正確性，但只能在程式執行階段驗證資料格式才能真正確保型別安全。
 #### [Why Does Shadcn use cn() Helper Functions?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;tailwind-merge-and-clsx-in-shadcn&#x2F;) 
 If you browse through Shadcn&#39;s component set, you&#39;ll find extensive use of a helper function cn, which uses twMerge(clsx(inputs)).
 #### [twMerge() + clsx() &#x3D; cn() ？Shadcn 为什么要用这些辅助函数？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;tailwind-merge-and-clsx-in-shadcn&#x2F;) 
@@ -18,7 +20,5 @@ If you browse through Shadcn&#39;s component set, you&#39;ll find extensive use 
 不少網站登入時都有關於「Single Sign-On」的選項，像是只要登入 Google 帳號，就可以橫跨不同服務如 YouTube、Gmail，從痛點了解 SSO 如何解決多個服務間登入造成的潛在問題與相關流程，打造更方便與安全的登入體驗。
 #### [透過 Figma MCP 與 Shadcn MCP 透過與 AI 聊天打造前端介面](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;integrate-figmamcp-and-shadcnmcp&#x2F;) 
 UI 通常仰賴設計者與前端耗費大量時間精力進行組織與維護，近期工作上進行前端翻新也遇到大量陳舊代碼需要翻皮的作業，問題是誰有時間一個一個重新替換？嘗試串上 Figma MCP 與 Shadcn MCP Server 讓我們透過與 AI 聊天就能精準打造前端介面。
-#### [Webpage lagging during rendering? Try List Virtualization](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;list-virtualization-pattern&#x2F;) 
-Rendering is performance bottleneck in web, especially in dashboard or large data lists. It skips the performance burden by &quot;only rendering visible items.&quot;
 <!--END_SECTION:feed-->
 
