@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [TanStack Table 拯救前端複雜的資料表格呈現問題](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;tanstack-table&#x2F;) 
+如果翻閱 Shadcn 元件集的元件會發現大量使用到一個輔助函式 cn，背後使用 twMerge(clsx(inputs))，它其實是兩套函式庫的組成，用於更方便建構元件當中 Tailwind 的樣式。為什麼會需要額外的庫和方法來建構元件樣式呢？
 #### [Create API Contracts (GraphQL, tRPC, oRPC) and Workarounds](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;frontend-and-backend-api-sync&#x2F;) 
 Using TypeScript to ensure type safety in large frontend projects is common, but API communication can introduce vulnerabilities that compromise type safety.
 #### [打造前后端 API 数据合约（GraphQL、tRPC、oRPC）与相关变通方案](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;frontend-and-backend-api-sync&#x2F;) 
@@ -18,7 +20,5 @@ Using TypeScript to ensure type safety in large frontend projects is common, but
 If you browse through Shadcn&#39;s component set, you&#39;ll find extensive use of a helper function cn, which uses twMerge(clsx(inputs)).
 #### [twMerge() + clsx() &#x3D; cn() ？Shadcn 为什么要用这些辅助函数？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;tailwind-merge-and-clsx-in-shadcn&#x2F;) 
 如果翻阅 Shadcn 组件集的组件会发现大量使用到一个辅助函数 cn，背后是使用 twMerge(clsx(inputs))，它实质是两个库的组合，方便构建 Tailwind 样式。为什么需要额外的库和方法来构建组件样式呢？
-#### [twMerge() + clsx() &#x3D; cn() ？為啥 Shadcn 要用這些輔助函式？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;tailwind-merge-and-clsx-in-shadcn&#x2F;) 
-如果翻閱 Shadcn 元件集的元件會發現大量使用到一個輔助函式 cn，背後使用 twMerge(clsx(inputs))，它其實是兩套函式庫的組成，用於更方便建構元件當中 Tailwind 的樣式。為什麼會需要額外的庫和方法來建構元件樣式呢？
 <!--END_SECTION:feed-->
 
