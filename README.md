@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [打造開發者友善的錯誤處理方式（feat. Java, Go, Rust, TS）](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;developer-friendly-error-handling&#x2F;) 
+錯誤處理是所有程式都會遇到的問題，特別是在複雜的網頁開發中更是如此。本文將研究不同方法模式與語言探討如何「打造開發者友善的錯誤處理方式」。推薦演講：Unexpected Monad. Is Safe Error Handling Possible in JS&#x2F;TS?
 #### [無痛導入的 Vue 無頭表單驗證：VeeValidate](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;veevalidate&#x2F;) 
 近期在遷移舊的 Element Plus 專案是必要找到另一款客戶端表單驗證方案，而在使用 Shadcn Vue 過程中發現 VeeValidate 是一款針對 Vue 製作的無頭表單驗證工具，你可以攜帶自己的 UI 整合，使用原生表單元件也不是問題。
 #### [Learning Go Interface for Polymorphism](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-interface&#x2F;) 
@@ -18,7 +20,5 @@ Understanding &quot;Polymorphism&quot; is like &quot;doing something, but the wa
 對於「多型 Polymorphism」的概念理解像是「要做一件事，但這件事對不同對象來說實踐的方式不同」。具體來說像是各種「形狀」都可以「算面積」，但背後實踐的方法卻不同，而在 Go 當中 interface 就是方法的集合。
 #### [Go Receiver Function like Class Method](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-receiver-function&#x2F;) 
 The first time you see a Go Receiver function, you might wonder what this strange syntax is, with parameters accepted before the function name?
-#### [像 Class Method 的奇特 Go Receiver Function](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-receiver-function&#x2F;) 
-第一次看到 Go 的 Receiver 函数会觉得这是啥怪语法，函数名前面还能接收参数？Go 语言提倡「Composition over inheritance」，并极力追求代码的简洁性，以此规避 class-based OOP 所带来的复杂性。
 <!--END_SECTION:feed-->
 
