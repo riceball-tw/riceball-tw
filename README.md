@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [簡單 Functor 解釋](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;functor&#x2F;) 
+Functor 的好處是：它讓我們能用同樣的方式操作不同的「容器型別」，想像成一個「裝值的盒子」，它允許我們對盒子裡的值進行運算，但同時又保留了盒子的結構。Functor 「提供了方式在容器裡操作值」，遵循同一性（Identity）與合成性（Composition）。
 #### [探討適當的載入時長如何打造更好的載入體驗](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;optimal-loading-times-contribute-to-a-better-ux&#x2F;) 
 最美好的使用體驗是即刻的，因此追求更短暫的等待時間越快越早的回饋很重要，然而倉促的將任何當下的資訊拋給用戶未必是最佳體驗，舉例來說：1.進入網頁 2.反饋「載入資料中……」3.顯示載入完成的資料，以上流程簡潔實在，會有什麼問題呢？問題出在時機和時間。
 #### [打造開發者友善的錯誤處理方式（feat. Java, Go, Rust, TS）](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;developer-friendly-error-handling&#x2F;) 
@@ -18,7 +20,5 @@
 Understanding &quot;Polymorphism&quot; is like &quot;doing something, but the way it is done varies&quot; For example, various &quot;shapes&quot; can &quot;calculate area,&quot;
 #### [学习 Go interface 实践多型](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-interface&#x2F;) 
 对于「多型 Polymorphism」的概念理解像是「要做一件事，但这件事对不同对象来说实践的方式不同」。具体来说像是各种「形状」都可以「算面积」，但背后实践的方法却不同，而在 Go 当中 interface 就是方法的集合。
-#### [學習 Go interface 實踐多型](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-interface&#x2F;) 
-對於「多型 Polymorphism」的概念理解像是「要做一件事，但這件事對不同對象來說實踐的方式不同」。具體來說像是各種「形狀」都可以「算面積」，但背後實踐的方法卻不同，而在 Go 當中 interface 就是方法的集合。
 <!--END_SECTION:feed-->
 
