@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Pointfree 代碼風格透過函式組合提昇代碼品質](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;pointfree&#x2F;) 
+定義函式時不顯式提其參數（points），而是透過函式組合與高階函式來描述運算流程。可以減少不必要的命名保持代碼簡潔與達成更好的通用組合性，但是額外的抽象須被理解與熟悉。透過兩個實際案例熟悉 Pointfree 開發風格。
 #### [簡單 Functor 解釋](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;functor&#x2F;) 
 Functor 的好處是：它讓我們能用同樣的方式操作不同的「容器型別」，想像成一個「裝值的盒子」，它允許我們對盒子裡的值進行運算，但同時又保留了盒子的結構。Functor 「提供了方式在容器裡操作值」，遵循同一性（Identity）與合成性（Composition）。
 #### [探討適當的載入時長如何打造更好的載入體驗](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;optimal-loading-times-contribute-to-a-better-ux&#x2F;) 
@@ -18,7 +20,5 @@ Functor 的好處是：它讓我們能用同樣的方式操作不同的「容器
 近期在遷移舊的 Element Plus 專案是必要找到另一款客戶端表單驗證方案，而在使用 Shadcn Vue 過程中發現 VeeValidate 是一款針對 Vue 製作的無頭表單驗證工具，你可以攜帶自己的 UI 整合，使用原生表單元件也不是問題。
 #### [Learning Go Interface for Polymorphism](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-interface&#x2F;) 
 Understanding &quot;Polymorphism&quot; is like &quot;doing something, but the way it is done varies&quot; For example, various &quot;shapes&quot; can &quot;calculate area,&quot;
-#### [学习 Go interface 实践多型](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-interface&#x2F;) 
-对于「多型 Polymorphism」的概念理解像是「要做一件事，但这件事对不同对象来说实践的方式不同」。具体来说像是各种「形状」都可以「算面积」，但背后实践的方法却不同，而在 Go 当中 interface 就是方法的集合。
 <!--END_SECTION:feed-->
 
