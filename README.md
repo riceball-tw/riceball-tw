@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [實際簡白的 Applicative Functor 解釋](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;applicative&#x2F;) 
+從先前 Functor 的概念出發，Functor 的 &#x60;map&#x60; 只能作用在數值上，而不能是「存在於容器中的數值」上，所以才需要 Applicative Functor，一種比 Functor 更多功能的結構，除了滿足 Functor 的功能外還能「讓盒子裡的函數作用（apply）到另一盒子的值」。
 #### [Pointfree 代碼風格透過函式組合提昇代碼品質](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;pointfree&#x2F;) 
 一種代碼風格，著重於函式的組合關係而非具體資料，定義函式時不顯式提其參數（points），而是透過函式組合與高階函式來表達資料流動。可以減少不必要的命名保持代碼簡潔與達成更好的通用組合性，但是額外的抽象須被理解與熟悉。透過兩個實際案例熟悉 Pointfree 開發風格。
 #### [實際簡白的 Functor 解釋](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;functor&#x2F;) 
@@ -18,7 +20,5 @@ Functor 的好處是：它讓我們能用同樣的方式操作不同的「容器
 錯誤處理是所有程式都會遇到的問題，特別是在複雜的網頁開發中更是如此。本文將研究不同方法模式與語言探討如何「打造開發者友善的錯誤處理方式」。推薦演講：Unexpected Monad. Is Safe Error Handling Possible in JS&#x2F;TS?
 #### [無痛導入的 Vue 無頭表單驗證：VeeValidate](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;veevalidate&#x2F;) 
 近期在遷移舊的 Element Plus 專案是必要找到另一款客戶端表單驗證方案，而在使用 Shadcn Vue 過程中發現 VeeValidate 是一款針對 Vue 製作的無頭表單驗證工具，你可以攜帶自己的 UI 整合，使用原生表單元件也不是問題。
-#### [Learning Go Interface for Polymorphism](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-interface&#x2F;) 
-Understanding &quot;Polymorphism&quot; is like &quot;doing something, but the way it is done varies&quot; For example, various &quot;shapes&quot; can &quot;calculate area,&quot;
 <!--END_SECTION:feed-->
 
