@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Go Slice vs Array 差異與底層原理](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;array-vs-slice-in-go&#x2F;) 
+在 Go 語言中，有兩種常見的資料結構可用於表示「序列資料」：Array 與 Slice。這兩者在語法上相似，但背後行為與使用情境差異非常關鍵。簡單來說，Array 是固定長度（Static Array），而 Slice 是動態長度（Dynamic Array）。
 #### [GitLab Mirror: Easy Syncing of Git Repos in 3 Minutes](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;gitlab-repo-mirror&#x2F;) 
 My recent work involves migrating GitLab to GitHub, Fortunately, GitLab has had a feature called Mirroring for a long time.
 #### [GitLab Mirror 3 分钟轻松迁移与同步 Git Repo](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;gitlab-repo-mirror&#x2F;) 
@@ -18,7 +20,5 @@ My recent work involves migrating GitLab to GitHub, Fortunately, GitLab has had 
 I&#39;ve always had a fear of TypeScript generics with all the , , extends. It seems daunting, but generics are essential for specific problems.
 #### [速通了解 TypeScript 泛型](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;typescript-generic&#x2F;) 
 对于 TypeScript 的泛型我一直有种恐惧，什么满满的 &#x60;&#x60;、&#x60;&#x60;、&#x60;extends&#x60;、多层嵌套，看起来就很可怕。毕竟在日常开发里，好像也不太需要……对吧？的确解决小问题如此，但在特定问题下泛型将会非常必要。
-#### [速通了解 TypeScript 泛型](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;typescript-generic&#x2F;) 
-對於 TypeScript 的泛型我一直有種恐懼，什麼滿滿的 &#x60;&#x60;、&#x60;&#x60;、&#x60;extends&#x60;、多層嵌套，看起來就很可怕。畢竟在日常開發裡，好像也不太需要……對吧？的確解決小問題如此，但在特定問題下泛型將會非常必要。
 <!--END_SECTION:feed-->
 
