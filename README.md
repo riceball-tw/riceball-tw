@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Go 非同步運算 (Goroutine)](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-concurrency&#x2F;) 
+Goroutine 是由 Go 語言本身管理的輕量級執行緒（User-space Thread），而不是由作業系統管理的執行緒（OS Thread）。背後使用 M:N 排程模型。這意味著，M 個 Goroutine 會被分配到 N 個作業系統執行緒（OS Threads）上執行。
 #### [Symmetric encryption and asymmetric encryption](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;symmetric-encryption-and-asymmetric-encryption&#x2F;) 
 Symmetric encryption uses the same key for encryption and decryption by both parties, posing risks such as key sharing and interception
 #### [对称加密与非对称加密](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;symmetric-encryption-and-asymmetric-encryption&#x2F;) 
@@ -18,7 +20,5 @@ Symmetric encryption uses the same key for encryption and decryption by both par
 In Go, there are two common data structures for &quot;sequence data&quot;: Array and Slice. They are similar in syntax, but the differences in behavior.
 #### [Go Slice vs Array 差異與底層原理](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;array-vs-slice-in-go&#x2F;) 
 在 Go 语言中，有两种常见的资料结构可用于表示「序列资料」：Array 与 Slice。这两者在语法上相似，但背后行为与使用情境差异非常关键。简单来说，Array 是固定长度（Static Array），而 Slice 是动态长度（Dynamic Array）。
-#### [Go Slice vs Array 差異與底層原理](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;array-vs-slice-in-go&#x2F;) 
-在 Go 語言中，有兩種常見的資料結構可用於表示「序列資料」：Array 與 Slice。這兩者在語法上相似，但背後行為與使用情境差異非常關鍵。簡單來說，Array 是固定長度（Static Array），而 Slice 是動態長度（Dynamic Array）。
 <!--END_SECTION:feed-->
 
