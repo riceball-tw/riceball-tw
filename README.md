@@ -8,7 +8,7 @@
 ---
 
 <!--START_SECTION:feed-->
-#### [Go 非同步運算 (Goroutine)](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-concurrency&#x2F;) 
+#### [Go 非同步運算 (Goroutine)](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-multi-tasks&#x2F;) 
 Goroutine 是由 Go 語言本身管理的輕量級執行緒（User-space Thread），而不是由作業系統管理的執行緒（OS Thread）。背後使用 M:N 排程模型。這意味著，M 個 Goroutine 會被分配到 N 個作業系統執行緒（OS Threads）上執行。
 #### [Symmetric encryption and asymmetric encryption](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;symmetric-encryption-and-asymmetric-encryption&#x2F;) 
 Symmetric encryption uses the same key for encryption and decryption by both parties, posing risks such as key sharing and interception
