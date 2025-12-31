@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [使用 Go Context 處理 goroutine 終止、超時、傳遞請求相關的值](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-context&#x2F;) 
+Context 是 Go 1.7 添加於標準函式庫的功能。常在存取資料庫或其他服務時會遇到，初步看起來是用於「傳遞取消信號」用途的語法，用於處理 goroutine：背負期限（deadline）、取消信號（cancellation signal）、傳遞請求相關的值（request-scoped values）。
 #### [How and Why Two Factor Authentication](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;how-and-why-two-factor-authentication&#x2F;) 
 As more and more apps started promoting—or even requiring—two-factor authentication (2FA), I ended up installing Google Authenticator on my phone.
 #### [为什么需要双重因子验证（2FA）？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;how-and-why-two-factor-authentication&#x2F;) 
@@ -18,7 +20,5 @@ As more and more apps started promoting—or even requiring—two-factor authent
 前端測試一直存在龐大的需求，但具體討論如何實戰中建構合理測試體制的討論文章卻不多，隨著社群工具成熟與不同的嘗試下我摸索出一套實戰可採用的方式替團隊建構設施。這篇文章參雜主觀意見與特定的上下文，主要統整近期在工作中的經驗選擇某項解決方案之前必須知道自己選擇的原因以及未來的走向，有太多已經被淘汰的技術與陳舊代碼。
 #### [How is Time Calculated and Stored in Programming?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;datetime-in-programming&#x2F;) 
 I always relying on convenient libraries like: dayjs for date conversion. This article aims to clarify the knowledge necessary for handling time in programming.
-#### [程序中时间是如何计算与存储的？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;datetime-in-programming&#x2F;) 
-我一直对程式中日期存在个模糊不可靠的概念，通常依靠方便的库像是：dayjs 去处理日期转换，但底层的原理至今仍不是很清楚，只知道时间是相对的，且存储方式可能是某种标准格式，这篇文章将尽可能补全程式处理时间所需要的知识。关于时区的规则与电脑运算存储时间的概念。
 <!--END_SECTION:feed-->
 
