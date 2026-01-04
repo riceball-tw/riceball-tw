@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [程式如何記憶：Stack](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;stack-and-heap&#x2F;) 
+學習高階程式語言通常都會接受一個觀念是：「沒用到的變數會自動被垃圾回收掉」。不過越接近底層或開始探討效能問題，發現自己對於程式語言核心的記憶體概念 Heap 與 Stack 並沒有那麼清楚。程式語言究竟是如何配置與管理記憶體的？所謂的垃圾回收（Garbage Collection, GC）具體來說又做了哪些事情？
 #### [Go context termination, timeouts, and passing values](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-context&#x2F;) 
 Context is added to Go standard library in 1.7. It&#39;s primarily used for  including deadlines, cancellation signals, and passing request-scoped values.
 #### [使用 Go Context 处理 goroutine 终止、超时、传递请求相关的值](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-context&#x2F;) 
@@ -18,7 +20,5 @@ Context 是 Go 1.7 添加於標準函式庫的功能。常在存取資料庫或�
 As more and more apps started promoting—or even requiring—two-factor authentication (2FA), I ended up installing Google Authenticator on my phone.
 #### [为什么需要双重因子验证（2FA）？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;how-and-why-two-factor-authentication&#x2F;) 
 随着越来越多的软体推广与强制双重因子验证 2FA，我的手机也装上了 Google Authenticator，但老实说，很长一段时间我只知道「打开 App → 输入六位数字」，对于这组数字为什么会一直变、伺服器又是怎么验证的，其实没有真正了解过。直到最近在测试一些相关登入逻辑才回来补齐这块知识。
-#### [為什麼需要雙重因子驗證（2FA）？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;how-and-why-two-factor-authentication&#x2F;) 
-隨著越來越多的軟體推廣與強制雙重因子驗證 2FA，我的手機也裝上了 Google Authenticator，但老實說，很長一段時間我只知道「打開 App → 輸入六位數字」，對於這組數字為什麼會一直變、伺服器又是怎麼驗證的，其實沒有真正了解過。直到最近在測試一些相關登入邏輯才回來補齊這塊知識。
 <!--END_SECTION:feed-->
 
