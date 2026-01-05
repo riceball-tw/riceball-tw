@@ -8,8 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
-#### [程式如何記憶：Stack](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;stack-and-heap&#x2F;) 
-學習高階程式語言通常都會接受一個觀念是：「沒用到的變數會自動被垃圾回收掉」。不過越接近底層或開始探討效能問題，發現自己對於程式語言核心的記憶體概念 Heap 與 Stack 並沒有那麼清楚。程式語言究竟是如何配置與管理記憶體的？所謂的垃圾回收（Garbage Collection, GC）具體來說又做了哪些事情？
+#### [程式如何記憶：Stack 與 Heap](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;stack-and-heap&#x2F;) 
+學習高階程式語言通常都會接受一個觀念是：「沒用到的變數會自動被垃圾回收掉」。不過越接近底層或開始探討效能問題，發現自己對於程式語言核心的記憶體概念 Heap 與 Stack 並沒有那麼清楚。程式語言究竟是如何分配與管理記憶體的？所謂的垃圾回收（Garbage Collection, GC）具體來說又做了哪些事情？
 #### [Go context termination, timeouts, and passing values](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-context&#x2F;) 
 Context is added to Go standard library in 1.7. It&#39;s primarily used for  including deadlines, cancellation signals, and passing request-scoped values.
 #### [使用 Go Context 处理 goroutine 终止、超时、传递请求相关的值](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-context&#x2F;) 
