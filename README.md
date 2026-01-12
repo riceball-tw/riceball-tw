@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Go 進行資料序列化與 Marshal 名稱的起源](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-marshal&#x2F;) 
+在前端處理傳遞資料到後端時都快忘了有「序列化與反序列化資料」這個步驟，因為都被套件像是：Axios 抽象掉了，近期在寫後端也重新溫習相關知識，也延續先前文章：Go Struct Tag 是什麼？如何透過 reflect 動態處理欄位？探討 Go 如何處理序列化資料。
 #### [How Programs Remember: Stack and Heap](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;stack-and-heap&#x2F;) 
 High-level programming languages usually involves the concept that &quot;unused variables are automatically garbage collected&quot;. How do programs manage memory?
 #### [程式如何记忆：Stack 与 Heap](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;stack-and-heap&#x2F;) 
@@ -18,7 +20,5 @@ High-level programming languages usually involves the concept that &quot;unused 
 Context is added to Go standard library in 1.7. It&#39;s primarily used for  including deadlines, cancellation signals, and passing request-scoped values.
 #### [使用 Go Context 处理 goroutine 终止、超时、传递请求相关的值](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-context&#x2F;) 
 Context 是 Go 1.7 添加于标准函式库的功能。常在存取资料库或其他服务时会遇到，初步看起来是用于「传递取消信号」用途的语法，用于处理 goroutine：背负期限（deadline）、取消信号（cancellation signal）、传递请求相关的值（request-scoped values）。
-#### [使用 Go Context 處理 goroutine 終止、超時、傳遞請求相關的值](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-context&#x2F;) 
-Context 是 Go 1.7 添加於標準函式庫的功能。常在存取資料庫或其他服務時會遇到，初步看起來是用於「傳遞取消信號」用途的語法，用於處理 goroutine：背負期限（deadline）、取消信號（cancellation signal）、傳遞請求相關的值（request-scoped values）。
 <!--END_SECTION:feed-->
 
