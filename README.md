@@ -8,7 +8,7 @@
 ---
 
 <!--START_SECTION:feed-->
-#### [研究現有流程如何使用 Agent Skills 模組化管理上下文](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-agents-skills&#x2F;) 
+#### [研究現有流程如何使用 Agent Skills 模組化管理上下文](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-agent-skills&#x2F;) 
 使用 Agentic AI 解決問題時上下文管理至關重要，而 Anthropic 推出的 Agent Skill 上下文管理模式近期也成為業界的一種主流標準，在 Claude Code、Codex、Opencode 等工具中都有支援，透過研究如何整合進入現有的流程來增加開發效率。
 #### [Go 進行資料序列化與 Marshal 名稱的起源](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-marshal&#x2F;) 
 在前端處理傳遞資料到後端時都快忘了有「序列化與反序列化資料」這個步驟，因為都被套件像是：Axios 抽象掉了，近期在寫後端也重新溫習相關知識，也延續先前文章：Go Struct Tag 是什麼？如何透過 reflect 動態處理欄位？探討 Go 如何處理序列化資料。
