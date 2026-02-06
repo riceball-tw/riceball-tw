@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [透過依賴注入達成依賴反轉，使替換程式模組測試更省事！](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;dependency-injection&#x2F;) 
+通常有些規模的專案會透過架構分層的方式來管理，而近期在研究如何更好的透過「依賴注入」替換模塊並實現更乾淨的測試。架構分層的概念可以參考之前寫過的：Express.js 入門建構 MVC 範例。我上傳了 go-gin-testing-todos 範例透過 DI 實踐測試架構。
 #### [Familiar with Go Modules and Packages](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-module-and-package&#x2F;) 
 From JS to Go, I wasn&#39;t familiar with Go&#39;s approach to modularity. Although similar in places, Go&#39;s simple and opinionated design is very evident.
 #### [熟悉使用 Go 模块与包](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-module-and-package&#x2F;) 
@@ -18,7 +20,5 @@ From JS to Go, I wasn&#39;t familiar with Go&#39;s approach to modularity. Altho
 很早以前接觸資料庫就有聽說過「N+1 問題」，不過一直沒有寫下筆記認真思考過一次，這次撰寫問題成因與詳細解方與圖表。透過：資料結構設計（去正規化）、在 DB 層完成關聯資料查詢、批次查詢並在應用層組裝、ORM ODM Eager Loading 來解決。
 #### [研究現有流程如何使用 Agent Skills 模組化管理上下文](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-agent-skills&#x2F;) 
 使用 Agentic AI 解決問題時上下文管理至關重要，而 Anthropic 推出的 Agent Skill 上下文管理模式近期也成為業界的一種主流標準，在 Claude Code、Codex、Opencode 等工具中都有支援，透過研究如何整合進入現有的流程來增加開發效率。
-#### [What is Marshal in Go?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-marshal&#x2F;) 
-Revisiting serialization&#x2F;deserialization in Go and the origin of &quot;Marshal&quot;, building on my earlier post about struct tags and reflect.
 <!--END_SECTION:feed-->
 
