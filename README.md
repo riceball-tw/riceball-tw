@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Go Set 資料結構道地寫法](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-set&#x2F;) 
+紀錄近期從 JavaScript 遷移到 Go 的過程中實踐 Set 資料結構的方式。先前代碼使用 JavaScript Set 來實現不重複資料定義，但在 Go 語言當中並沒有實踐 Set 資料結構，但我們可以透過改造 map 來實踐。
 #### [Embed files at compile time with go:embed](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-embed-std&#x2F;) 
 Using Go 1.16&#39;s embed to include files at compile time, avoiding path&#x2F;environment issues. Not suitable if files must change at runtime.
 #### [通过 go:embed 在编译时将文件嵌入](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-embed-std&#x2F;) 
@@ -18,7 +20,5 @@ Using Go 1.16&#39;s embed to include files at compile time, avoiding path&#x2F;e
 P 與 NP 用來描述解決問題的難度所需的時間為：polynomial time 或 non-deterministic polynomial time。將問題分類為 P 或 NP，有助於理解一個問題是否有可能在合理的時間內被解決——即執行時間不會隨著輸入規模的增長而爆炸性膨脹。
 #### [4 Types of Feature Flags and When to Use Them](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;4-types-of-feature-flag&#x2F;) 
 After covering what Feature Flags are, this post explains four types of Feature Flags and their differing lifecycles, dynamism, and management strategies.
-#### [4 种 Feature Flag 与使用时机](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;4-types-of-feature-flag&#x2F;) 
-先前探讨到：什么是 Feature Flag 以及它解决什么问题？了解 Feature Flag 存在的价值后，今天了解更多关于 4 种类型的 Feature Flag 以及实战上的用途。不同目的的 Flag，在设计方式、生命周期、动态程度与管理策略上都有明显差异。
 <!--END_SECTION:feed-->
 
