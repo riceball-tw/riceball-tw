@@ -9,7 +9,7 @@
 
 <!--START_SECTION:feed-->
 #### [實戰 FIDO 驗證實現無密碼登入](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;fido-auth&#x2F;) 
-不同網站的密碼需要管理，不僅容易忘記，也存在被竊取或重複使用帶來的風險。想像一下，如果只需要掃描指紋或使用臉部識別，就能立即完成註冊與登入——這正是 FIDO（Fast IDentity Online）所推動的「無密碼身分驗證」願景。
+不同網站的密碼需要管理，不僅容易忘記，也存在被竊取或重複使用帶來的風險。如果只需要掃描指紋或使用臉部識別，就能立即完成註冊與登入——這正是 FIDO（Fast IDentity Online）所推動的「無密碼身分驗證」願景。
 #### [Idiomatic Go Testing: Table Driven Test](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;table-driven-test&#x2F;) 
 I noticed a widely praised convention in Go testing: Table Driven Tests. I thought tests should be simple, but this pattern reflects programmers&#39; laziness.
 #### [Go 测试的地道写法：Table Driven Test](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;table-driven-test&#x2F;) 
