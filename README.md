@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [學會挑選合適的模型透過 Ollama 本地運行 LLM](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;run-ai-locally-using-ollama&#x2F;) 
+雖然在 AI 出現之前很難想像，但 2026 年工作上我已經很少「手寫程式」而是透過 AI 更有效率的輔助開發，我相信在 AI 百家爭鳴的時代不用特別執著用哪個模型或工具，挑個最新順手的免費方案就夠了，未來模型只會更便宜更有效率。
 #### [Backend Integration Testing with Testcontainers](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;testcontainers&#x2F;) 
 Frontend tests focus on browsers; backend tests face distributed services and state. This shows using Testcontainers to run Docker-based integration tests.
 #### [使用 Testcontainers 实现后端集成测试](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;testcontainers&#x2F;) 
@@ -18,7 +20,5 @@ Frontend tests focus on browsers; backend tests face distributed services and st
 AES is the most widely used symmetric cipher—used in HTTPS&#x2F;TLS, Wi‑Fi, full-disk encryption, and messaging. Understanding AES clarifies modern encryption.
 #### [了解 AES 最佳实践、区块填充与模式](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;aes-encryption&#x2F;) 
 AES（Advanced Encryption Standard）是最广泛使用的对称加密，HTTPS&#x2F;TLS、Wi-Fi（WPA2&#x2F;3）、全硬盘加密（BitLocker、FileVault）……通过理解 AES 如何运作有助于了解现代安全加密如何实践。
-#### [了解 AES 最佳實踐、區塊填充與模式](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;aes-encryption&#x2F;) 
-AES（Advanced Encryption Standard）是最廣泛使用的對稱加密，HTTPS&#x2F;TLS、Wi-Fi（WPA2&#x2F;3）、全硬碟加密（BitLocker、FileVault）⋯⋯透過理解 AES 如何運作有助於了解現代安全加密如何實踐。
 <!--END_SECTION:feed-->
 
