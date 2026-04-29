@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [平行程式開發：原子操作、鎖、信號量、具狀態 Goroutine](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;parallel-programming&#x2F;) 
+大多程式都可以採取「並行 Concurrency」的方式來達成簡單安全且高效的運行，但隨著多核 CPU 出現以及特定場景對於效率的追求「平行 Parallelism」運行程式是另一個提高運行效率方向。本文練習透過 Go 複習平行程式開發下資料存取相關技巧：原子操作、鎖、信號量⋯⋯
 #### [從頭了解 Redis 快取種類與常見災難](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;redis-cache&#x2F;) 
 Redis 是十分常見的 In-Memory 資料庫，工作上時不時會碰到它但很少仔細從頭了解它，所以透過撰寫重現一些案例達成更深刻的理解。快取就是把常存取的資料放在能夠快速獲取的地方，缺點是記憶體不像硬碟適合長久保存資料，但不管是提高速度、降低延遲、降低負擔或減輕成本⋯⋯快取都是很棒的選擇。
 #### [Go&#39;s Zero Value and Practical Examples](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-zero-value&#x2F;) 
@@ -18,7 +20,5 @@ Unlike C or uninitialized dynamic languages, Go assigns deterministic zero value
 相較於 C 讀取未定義數值的變數會造成安全漏洞或崩潰，或是動態語言如 JavaScript 沒有數值型別初始化的問題，Go 的設計上就自動賦予了確定意義的數值避免出錯與創建即可使用。具體來說在例如使用 json 反射的標籤中 &#x60;omitempty&#x60; 也正是運用了 Zero Value 的概念來判斷。
 #### [Host the Right Model Through Ollama](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;run-ai-locally-using-ollama&#x2F;) 
 I believe in an era where many AI models compete, Models will only get cheaper and more efficient. Let&#39;s host the right model through Ollama.
-#### [学会通过 Ollama 在本地运行 LLM 并挑选合适的模型](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;run-ai-locally-using-ollama&#x2F;) 
-虽然在 AI 出现之前很难想像，但 2026 年工作上我已经很少「手写程式」而是透过 AI 更有效率的辅助开发，我相信在 AI 百家争鸣的时代不用特别执着用哪个模型或工具，挑个最新顺手的免费方案就够了，未来模型只会更便宜更有效率。
 <!--END_SECTION:feed-->
 
