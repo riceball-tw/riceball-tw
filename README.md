@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [於 CI 自動化靜態驗證 Go 提升代碼品質](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;auto-format-go-in-ci&#x2F;) 
+近期在開發 Go 專案時發現到提交代碼流程總是有些摩擦，像是開發時習慣用 Tab 到 GitLab 上寬度就會變得很奇怪，或是一些簡單的對齊問題都在無形消耗專注力。所以透過把一些原生的 Go 靜態檢查工具搬到 CI 上執行，確保統一的開發體驗。
 #### [透過 Go Slog 達成結構化寬事件 logging 最佳實踐](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;logging-in-go&#x2F;) 
 最近有較多的時間思考開發上的最佳實踐，考慮到目前開發的一個後端項目基本就是拿 go 原生的 log 到處打印儲存片面狀態而已。在閱讀一些文件與最佳實踐後，我想著手改善現有的 logging 體驗透過導入 Go 1.21 引入的原生 slog 庫。
 #### [平行程式開發：原子操作、鎖、信號量、具狀態 Goroutine](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;parallel-programming&#x2F;) 
@@ -18,7 +20,5 @@ Redis is a common in-memory database. Reproducing scenarios to explain cache typ
 Redis 是十分常见的 In-Memory 资料库，工作上时不时会碰到它但很少仔细从头了解它，所以透过撰写重现一些案例达成更深刻的理解。缓存就是把常存取的资料放在能够快速获取的地方，缺点是记忆体不像硬碟适合长久保存资料，但不管是提高速度、降低延迟、降低负担或减轻成本⋯⋯缓存都是很棒的选择。
 #### [從頭了解 Redis 快取種類與常見災難](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;redis-cache&#x2F;) 
 Redis 是十分常見的 In-Memory 資料庫，工作上時不時會碰到它但很少仔細從頭了解它，所以透過撰寫重現一些案例達成更深刻的理解。快取就是把常存取的資料放在能夠快速獲取的地方，缺點是記憶體不像硬碟適合長久保存資料，但不管是提高速度、降低延遲、降低負擔或減輕成本⋯⋯快取都是很棒的選擇。
-#### [Go&#39;s Zero Value and Practical Examples](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-zero-value&#x2F;) 
-Unlike C or uninitialized dynamic languages, Go assigns deterministic zero values to variables to avoid errors; json&#39;s &#x60;omitempty&#x60; uses the Zero Value concept.
 <!--END_SECTION:feed-->
 
