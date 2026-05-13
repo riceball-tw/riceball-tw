@@ -8,6 +8,10 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Improving Go code quality through CI static validation](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;auto-format-go-in-ci&#x2F;) 
+Noticed friction when committing Go code (tabs, alignment, minor formatting). Moving native Go static checks to CI enforces consistent formatting.
+#### [在 CI 中通过自动化静态验证提升 Go 代码质量](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;auto-format-go-in-ci&#x2F;) 
+近期在开发 Go 专案时发现到提交代码流程总是有些摩擦，像是开发时习惯用 Tab 到 GitLab 上宽度就会变得很奇怪，或是一些简单的对齐问题都在无形消耗专注力。所以透过把一些原生的 Go 静态检查工具搬到 CI 上执行，确保统一的开发体验。
 #### [於 CI 自動化靜態驗證 Go 提升代碼品質](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;auto-format-go-in-ci&#x2F;) 
 近期在開發 Go 專案時發現到提交代碼流程總是有些摩擦，像是開發時習慣用 Tab 到 GitLab 上寬度就會變得很奇怪，或是一些簡單的對齊問題都在無形消耗專注力。所以透過把一些原生的 Go 靜態檢查工具搬到 CI 上執行，確保統一的開發體驗。
 #### [透過 Go Slog 達成結構化寬事件 logging 最佳實踐](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;logging-in-go&#x2F;) 
@@ -16,9 +20,5 @@
 大多程式都可以採取「並行 Concurrency」的方式來達成簡單安全且高效的運行，但隨著多核 CPU 出現以及特定場景對於效率的追求「平行 Parallelism」運行程式是另一個提高運行效率方向。本文練習透過 Go 複習平行程式開發下資料存取相關技巧：原子操作、鎖、信號量⋯⋯
 #### [Understanding Redis Cache Types and Common Disasters](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;redis-cache&#x2F;) 
 Redis is a common in-memory database. Reproducing scenarios to explain cache types, trade-offs, and common failures: penetration, breakdown, and avalanche.
-#### [从头了解 Redis 缓存种类与常见灾难](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;redis-cache&#x2F;) 
-Redis 是十分常见的 In-Memory 资料库，工作上时不时会碰到它但很少仔细从头了解它，所以透过撰写重现一些案例达成更深刻的理解。缓存就是把常存取的资料放在能够快速获取的地方，缺点是记忆体不像硬碟适合长久保存资料，但不管是提高速度、降低延迟、降低负担或减轻成本⋯⋯缓存都是很棒的选择。
-#### [從頭了解 Redis 快取種類與常見災難](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;redis-cache&#x2F;) 
-Redis 是十分常見的 In-Memory 資料庫，工作上時不時會碰到它但很少仔細從頭了解它，所以透過撰寫重現一些案例達成更深刻的理解。快取就是把常存取的資料放在能夠快速獲取的地方，缺點是記憶體不像硬碟適合長久保存資料，但不管是提高速度、降低延遲、降低負擔或減輕成本⋯⋯快取都是很棒的選擇。
 <!--END_SECTION:feed-->
 
