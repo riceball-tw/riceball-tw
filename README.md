@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Go struct 記憶體對齊如何提升記憶體運用效率](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-memory-aligment&#x2F;) 
+在學習 Go 時會了解到 &#x60;struct&#x60; 其實就是一串自訂的資料結構，而其中欄位的「順序」將直接影響到在記憶體中所佔用的實際大小甚至程式的速度。了解記憶體對齊的概念除了「節省空間」外也能為打造「更佳的緩存局部性（Cache locality）」。
 #### [Improving Go code quality through CI static validation](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;auto-format-go-in-ci&#x2F;) 
 Noticed friction when committing Go code (tabs, alignment, minor formatting). Moving native Go static checks to CI enforces consistent formatting.
 #### [在 CI 中通过自动化静态验证提升 Go 代码质量](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;auto-format-go-in-ci&#x2F;) 
@@ -18,7 +20,5 @@ Noticed friction when committing Go code (tabs, alignment, minor formatting). Mo
 最近有較多的時間思考開發上的最佳實踐，考慮到目前開發的一個後端項目基本就是拿 go 原生的 log 到處打印儲存片面狀態而已。在閱讀一些文件與最佳實踐後，我想著手改善現有的 logging 體驗透過導入 Go 1.21 引入的原生 slog 庫。
 #### [平行程式開發：原子操作、鎖、信號量、具狀態 Goroutine](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;parallel-programming&#x2F;) 
 大多程式都可以採取「並行 Concurrency」的方式來達成簡單安全且高效的運行，但隨著多核 CPU 出現以及特定場景對於效率的追求「平行 Parallelism」運行程式是另一個提高運行效率方向。本文練習透過 Go 複習平行程式開發下資料存取相關技巧：原子操作、鎖、信號量⋯⋯
-#### [Understanding Redis Cache Types and Common Disasters](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;redis-cache&#x2F;) 
-Redis is a common in-memory database. Reproducing scenarios to explain cache types, trade-offs, and common failures: penetration, breakdown, and avalanche.
 <!--END_SECTION:feed-->
 
