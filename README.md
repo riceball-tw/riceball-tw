@@ -16,9 +16,9 @@ I remember early PCs were 32-bit; around Windows 7 they moved to 64-bit. I wasn&
 还记得小时候的电脑都是 32-bits 的系统，大约在 win7 的时代已经逐步的替换成 64-bits 系统了，但我还是不了解具体来说有什么差异，只记得有段时间有两种软体规格可以选择，或是某些软体需要用「兼容模式」来执行。
 #### [32-bits 與 64-bits 系統差異](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;64bit-vs-32bit-system&#x2F;) 
 還記得小時候的電腦都是 32-bits 的系統，大約在 win7 的時代已經逐步的替換成 64-bits 系統了，但我還是不了解具體來說有什麼差異，只記得有段時間有兩種軟體規格可以選擇，或是某些軟體需要用「兼容模式」來執行。
-#### [透過金鑰衍生函式（KDF）確保單一金鑰多處安全加密](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;key-expansion-function&#x2F;) 
-當處理多個加解密應用時我納悶：「多一份金鑰需要管理，意味著多一個需要防守的東西」、「如何避免用戶使用一串非常簡單的金鑰讓破解變得非常容易」。而正好有個專門的算法：金鑰衍生函式 Key Derivation Function 正是為此類問題而生。
-#### [Go struct memory alignment and usage efficiency](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-memory-aligment&#x2F;) 
-A struct&#39;s field order affects memory size and performance in Go. Understanding alignment saves space and improves cache locality.
+#### [Key Expansion and Stretching through Key Derivation Function](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;key-expansion-function&#x2F;) 
+More keys to manage means more to defend; how to prevent users choosing weak keys? Key Derivation Functions (KDFs) address these issues.
+#### [通过密钥衍生函数（KDF）确保单一密钥在多处的安全加密](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;key-expansion-function&#x2F;) 
+当处理多个加解密应用时我纳闷：「多一份金钥需要管理，意味着多一个需要防守的东西」、「如何避免用户使用一串非常简单的金钥让破解变得非常容易」。而正好有个专门的算法：金钥衍生函式 Key Derivation Function 正是为此类问题而生。
 <!--END_SECTION:feed-->
 
