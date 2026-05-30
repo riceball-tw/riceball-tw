@@ -8,7 +8,7 @@
 ---
 
 <!--START_SECTION:feed-->
-#### [代理伺服器與後端服務如何處理請求的 IP來源？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;gin-trusted-proxy&#x2F;) 
+#### [代理伺服器與後端服務如何處理請求的 IP 來源？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;gin-trusted-proxy&#x2F;) 
 在服務面前擺一台 Nginx 進行反向代理是常見的操作，但當我們要做應用層的限流機制、紀錄 Log、一切與來源請求 IP 相關的功能時要如何拿到正確的資訊？記錄一下我根據 Go Gin 受信任代理設置官方文件的最佳範例。
 #### [32-bit vs 64-bit systems](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;64bit-vs-32bit-system&#x2F;) 
 I remember early PCs were 32-bit; around Windows 7 they moved to 64-bit. I wasn&#39;t sure what changed — some apps had two builds or needed compatibility mode.
