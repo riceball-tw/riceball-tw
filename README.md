@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [藉助 AI Loop 統一後端請求與回應格式](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;unify-request-and-response-utlizing-ai-with-goal&#x2F;) 
+你有遇過格式不一的後端專案嗎？近期在翻新某個 Go 後端專案痛苦的因素就是請求與回應格式不一，這是一個很直白且簡單的問題，但實際會造成很大的困擾。藉由定義完整的 Agent Skills 文件與 goal 來自動達成目標。
 #### [Avoid path traversal by utilizing Go os.Root](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-avoid-path-traversal&#x2F;) 
 Use Go 1.24&#39;s os.Root API to prevent path traversal when accessing local files; replace unsafe os.Open with os.Root or OpenInRoot.
 #### [Go os.Root 预防路径遍历最佳实践](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-avoid-path-traversal&#x2F;) 
@@ -18,7 +20,5 @@ Use Go 1.24&#39;s os.Root API to prevent path traversal when accessing local fil
 在服務面前擺一台 Nginx 進行反向代理是常見的操作，但當我們要做應用層的限流機制、紀錄 Log、一切與來源請求 IP 相關的功能時要如何拿到正確的資訊？記錄一下我根據 Go Gin 受信任代理設置官方文件的最佳範例。
 #### [32-bit vs 64-bit systems](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;64bit-vs-32bit-system&#x2F;) 
 I remember early PCs were 32-bit; around Windows 7 they moved to 64-bit. I wasn&#39;t sure what changed — some apps had two builds or needed compatibility mode.
-#### [32-bits 与 64-bits 系统差异](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;64bit-vs-32bit-system&#x2F;) 
-还记得小时候的电脑都是 32-bits 的系统，大约在 win7 的时代已经逐步的替换成 64-bits 系统了，但我还是不了解具体来说有什么差异，只记得有段时间有两种软体规格可以选择，或是某些软体需要用「兼容模式」来执行。
 <!--END_SECTION:feed-->
 
