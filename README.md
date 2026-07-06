@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [僅使用一次的隨機數，nonce 是什麼？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-nonce&#x2F;) 
+在先前寫給網頁開發者的 CSRF 理解與防範提到其中一種防範方式是透過生成 CSRF Token，而這其實算是一種 Nonce。Nonce 等於只用一次的數值，可以是任何形式的資料：數字、字串、遞增計數器、時間戳……重點在驗證「每一次操作都必須唯一」，攸關重要行動的地方都會用到 nonce。
 #### [Idiomatic Go: Enum and Union](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-enum-and-union&#x2F;) 
 Go lacks enum and union keywords; utlizing existing features to achieve the same patterns. study TypeScript as example
 #### [地道 Go 语言 Enum 与 Union 实践方式](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-enum-and-union&#x2F;) 
@@ -18,7 +20,5 @@ Go 既沒有 Enum（枚舉）也沒有 Union（聯合）的關鍵字，因此會
 Go&#39;s uuid v7 uses Must: returns uuid if err is nil and panics otherwise — use when the error isn&#39;t recoverable.
 #### [地道 Go 错误处理模式：Must](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-must-pattern&#x2F;) 
 最近用到 Go 官方 uuid 库产生 UUID v7 时候留意到一种使用方式是：Must，他的描述也很简单：Must returns uuid if err is nil and panics otherwise. 用途是「当错误不是一个可以恢复的选项时」，使用包装好的 &#x60;Must&#x60; 直接 panic 错误。
-#### [道地 Go 錯誤處理模式： Must](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-must-pattern&#x2F;) 
-最近用到 Go 官方 uuid 庫產生 UUID v7 時候留意到一種使用方式是：Must，他的描述也很簡單：Must returns uuid if err is nil and panics otherwise. 用途是「當錯誤不是一個可以恢復的選項時」，使用包裝好的 &#x60;Must&#x60; 直接 panic 錯誤。
 <!--END_SECTION:feed-->
 
