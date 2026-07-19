@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [研究透過 LangChain 替產品導入本地模型與配套 Harness](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;build-a-local-llm-agent-inside-product&#x2F;) 
+這個時代開發產品絕對會被反覆要求「我們的產品能不能整合 AI？」、「AI 能帶來什麼新的商機？」，很多團隊包括我也是第一次遇到需要整合 AI 到實際產品的情況。而我在開發的產品性質又是需要斷網的嚴苛環境，因此這篇文章主要研究盡可能基於瀏覽器或本地 LLM 的 MVP，著重探討技術上的可能性。
 #### [Handling Parallel Image Generation in Go](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-handling-parallel-image-generation&#x2F;) 
 Worker Pool patterns is a great entry point: “keep a fixed number of workers, waiting for work to be assigned to them.”
 #### [Go 缓冲通道实践工作池处理并发图片生成](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-handling-parallel-image-generation&#x2F;) 
@@ -18,7 +20,5 @@ Worker Pool patterns is a great entry point: “keep a fixed number of workers, 
 A nonce is a value used only once and can take any form, The key is to verify &quot;each operation must be unique&quot;
 #### [仅使用一次的随机数，nonce 是什么？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;what-is-nonce&#x2F;) 
 在先前写给网页开发者的 CSRF 理解与防范提到其中一种防范方式是透过生成 CSRF Token，而这其实算是一种 Nonce。 Nonce 等于只用一次的数值，可以是任何形式的资料：数字、字串、递增计数器、时间戳……重点在验证「每一次操作都必须唯一」，攸关重要行动的地方都会用到 nonce。
-#### [僅使用一次的隨機數，nonce 是什麼？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;what-is-nonce&#x2F;) 
-在先前寫給網頁開發者的 CSRF 理解與防範提到其中一種防範方式是透過生成 CSRF Token，而這其實算是一種 Nonce。Nonce 等於只用一次的數值，可以是任何形式的資料：數字、字串、遞增計數器、時間戳……重點在驗證「每一次操作都必須唯一」，攸關重要行動的地方都會用到 nonce。
 <!--END_SECTION:feed-->
 
