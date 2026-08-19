@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Go MongoDB 建構關聯查詢](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-mongodb-relation-join&#x2F;) 
+最近工作上會遇到 Mongo 進行關聯查詢的問題，如果沒有處理好很容易變成 N+1 問題，舉例問題背景像是這樣：「一個用戶可以有多個訂單，多個訂單可以對應多個產品」。剛好最近在製作一款基於 Mongo Go Driver 之上的 Query Builder： good，剛好這個常見問題值得探討。
 #### [研究透過 LangChain 替產品導入本地模型與配套 Harness](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;build-a-local-llm-agent-inside-product&#x2F;) 
 這個時代開發產品絕對會被反覆要求「我們的產品能不能整合 AI？」、「AI 能帶來什麼新的商機？」，很多團隊包括我也是第一次遇到需要整合 AI 到實際產品的情況。而我在開發的產品性質又是需要斷網的嚴苛環境，因此這篇文章主要研究盡可能基於瀏覽器或本地 LLM 的 MVP，著重探討技術上的可能性。
 #### [Handling Parallel Image Generation in Go](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-handling-parallel-image-generation&#x2F;) 
@@ -18,7 +20,5 @@ Worker Pool patterns is a great entry point: “keep a fixed number of workers, 
 學習 Go 我一直想找個機會嘗試併發情境，而一個最基礎的 Worker Pool（Thread Pool）就是很好入門的模式：「讓固定數量的 worker 在背後運行，等待分配給它們工作」。這個情境很適合練習併發，因為每張圖片彼此獨立，不需要等前一張完成才能生成下一張，但也不能無限制地全部同時跑。
 #### [What is nonce?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;what-is-nonce&#x2F;) 
 A nonce is a value used only once and can take any form, The key is to verify &quot;each operation must be unique&quot;
-#### [仅使用一次的随机数，nonce 是什么？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;what-is-nonce&#x2F;) 
-在先前写给网页开发者的 CSRF 理解与防范提到其中一种防范方式是透过生成 CSRF Token，而这其实算是一种 Nonce。 Nonce 等于只用一次的数值，可以是任何形式的资料：数字、字串、递增计数器、时间戳……重点在验证「每一次操作都必须唯一」，攸关重要行动的地方都会用到 nonce。
 <!--END_SECTION:feed-->
 
