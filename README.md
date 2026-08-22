@@ -9,7 +9,7 @@
 
 <!--START_SECTION:feed-->
 #### [Go MongoDB 建構關聯查詢](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-mongodb-relation-join&#x2F;) 
-最近工作上會遇到 Mongo 進行關聯查詢的問題，如果沒有處理好很容易變成 N+1 問題，舉例問題背景像是這樣：「一個用戶可以有多個訂單，多個訂單可以對應多個產品」。剛好最近在製作一款基於 Mongo Go Driver 之上的 Query Builder： good，剛好這個常見問題值得探討。
+最近工作上會遇到 Mongo 進行關聯查詢的問題，如果沒有處理好很容易變成 N+1 問題，舉例問題背景像是這樣：「一個用戶可以有多個訂單，多個訂單可以對應多個產品」。剛好最近在製作一款基於 Mongo Go Driver 的 Query Builder：good，這個常見問題值得探討。
 #### [研究透過 LangChain 替產品導入本地模型與配套 Harness](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;build-a-local-llm-agent-inside-product&#x2F;) 
 這個時代開發產品絕對會被反覆要求「我們的產品能不能整合 AI？」、「AI 能帶來什麼新的商機？」，很多團隊包括我也是第一次遇到需要整合 AI 到實際產品的情況。而我在開發的產品性質又是需要斷網的嚴苛環境，因此這篇文章主要研究盡可能基於瀏覽器或本地 LLM 的 MVP，著重探討技術上的可能性。
 #### [Handling Parallel Image Generation in Go](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-handling-parallel-image-generation&#x2F;) 
