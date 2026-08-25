@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [透過 gRPC 統一服務之間溝通](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;grpc&#x2F;) 
+服務之間對同一筆資料有不同的命名與定義，是多儲存庫架構最常見的痛點，也讓 AI 難以取得一致的上下文。gRPC 以 Protocol Buffers 作為唯一真實來源，用一份 .proto 產生各語言的型別與客戶端，讓欄位命名與缺漏問題在編譯期就被擋下來。
 #### [Go MongoDB 建構關聯查詢](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-mongodb-relation-join&#x2F;) 
 最近工作上會遇到 Mongo 進行關聯查詢的問題，如果沒有處理好很容易變成 N+1 問題，舉例問題背景像是這樣：「一個用戶可以有多個訂單，多個訂單可以對應多個產品」。剛好最近在製作一款基於 Mongo Go Driver 的 Query Builder：good，這個常見問題值得探討。
 #### [研究透過 LangChain 替產品導入本地模型與配套 Harness](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;build-a-local-llm-agent-inside-product&#x2F;) 
@@ -18,7 +20,5 @@ Worker Pool patterns is a great entry point: “keep a fixed number of workers, 
 学习 Go 时我一直想找个机会尝试并发场景，而一个最基础的 Worker Pool（Thread Pool）就是很好的入门模式：「让固定数量的 worker 在后台运行，等待分配给它们工作」。这个场景很适合练习并发，因为每张图片彼此独立，不需要等前一张完成才能生成下一张，但也不能无限制地全部同时运行。
 #### [Go 緩衝通道實踐工作池處理併發圖片生產](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-handling-parallel-image-generation&#x2F;) 
 學習 Go 我一直想找個機會嘗試併發情境，而一個最基礎的 Worker Pool（Thread Pool）就是很好入門的模式：「讓固定數量的 worker 在背後運行，等待分配給它們工作」。這個情境很適合練習併發，因為每張圖片彼此獨立，不需要等前一張完成才能生成下一張，但也不能無限制地全部同時跑。
-#### [What is nonce?](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;what-is-nonce&#x2F;) 
-A nonce is a value used only once and can take any form, The key is to verify &quot;each operation must be unique&quot;
 <!--END_SECTION:feed-->
 
