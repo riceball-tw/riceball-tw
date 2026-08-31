@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [LLM 文字水印技術原理如何實現？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;how-is-text-watermark-work&#x2F;) 
+Anthropic 近期公告未來的模型都會替文字添加水印：How Claude&#39;s text watermark works，所以我想研究一下 LLM 文字水印是如何實現的且對使用者有什麼影響？主流的 SynthID-Text 運作方式與如何看待 AI 水印。
 #### [Unifying Communication Between Services with gRPC](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;grpc&#x2F;) 
 Feeding the right context to the AI took lots effort. gRPC uses protbuf as the single source of truth to solve the issue
 #### [通过 gRPC 统一服务之间的通信](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;grpc&#x2F;) 
@@ -18,7 +20,5 @@ Feeding the right context to the AI took lots effort. gRPC uses protbuf as the s
 Recently at work I’ve been running into the problem of doing relational queries in Mongo. If not handled properly, it can easily turn into an N+1 problem.
 #### [Go MongoDB 构建关联查询](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-mongodb-relation-join&#x2F;) 
 最近工作中会遇到 Mongo 进行关联查询的问题，如果没有处理好很容易变成 N+1 问题，举例问题背景像是这样：「一个用户可以有多个订单，多个订单可以对应多个产品」。刚好最近在制作一款基于 Mongo Go Driver 的 Query Builder：good，这个常见问题值得探讨。
-#### [Go MongoDB 建構關聯查詢](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-mongodb-relation-join&#x2F;) 
-最近工作上會遇到 Mongo 進行關聯查詢的問題，如果沒有處理好很容易變成 N+1 問題，舉例問題背景像是這樣：「一個用戶可以有多個訂單，多個訂單可以對應多個產品」。剛好最近在製作一款基於 Mongo Go Driver 的 Query Builder：good，這個常見問題值得探討。
 <!--END_SECTION:feed-->
 
