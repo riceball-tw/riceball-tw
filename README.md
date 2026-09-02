@@ -8,7 +8,7 @@
 ---
 
 <!--START_SECTION:feed-->
-#### [LLM 文字水印技術原理如何實現？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;how-is-text-watermark-work&#x2F;) 
+#### [文字水印技術原理如何實現？](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;how-is-text-watermark-work&#x2F;) 
 Anthropic 近期公告未來的模型都會替文字添加水印：How Claude&#39;s text watermark works，所以我想研究一下 LLM 文字水印是如何實現的且對使用者有什麼影響？主流的 SynthID-Text 運作方式與如何看待 AI 水印。
 #### [Unifying Communication Between Services with gRPC](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;grpc&#x2F;) 
 Feeding the right context to the AI took lots effort. gRPC uses protbuf as the single source of truth to solve the issue
