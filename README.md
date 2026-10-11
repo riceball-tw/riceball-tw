@@ -8,6 +8,8 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [使用 Bash 製作一個 release 分支自動同步工具](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;build-a-git-release-backporting-tool&#x2F;) 
+注意到一個反覆出現卻又容易被低估的痛點：當從主幹分支切出 release 分支後，接下來一到兩週內，每個落在主幹上的 hotfix 都必須被 cherry-pick 回到 release 分支，而任何一個錯誤都會讓 release 分支處於不一致的狀態。
 #### [How to Use SSH Keys for Secure Passwordless Connections](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;ssh-auth-key&#x2F;) 
 I set up HTTP&#x2F;SSH authentication for Git so long ago that I&#39;ve forgotten the details. While working on server connections recently...
 #### [如何使用 SSH 密钥进行安全的无密码连接](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;ssh-auth-key&#x2F;) 
@@ -18,7 +20,5 @@ I set up HTTP&#x2F;SSH authentication for Git so long ago that I&#39;ve forgotte
 When functions have exactly the same logic, changing the type used to mean copying and pasting another version: SumInts, SumFloats, SumStrings...
 #### [Go 泛型使用笔记](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-generic&#x2F;) 
 泛型解决的是「同一段逻辑要套在多种类型上」，不是「制造多余的抽象」，明明逻辑一模一样的函数，换个类型就得再复制粘贴一份：SumInts、SumFloats、SumStrings。泛型从 Go 1.18 加入语言后，这件事就有解了，并且在 Go 1.27 还加入了泛型函数的功能。
-#### [Go 泛型使用筆記](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;go-generic&#x2F;) 
-泛型解決的是「同一段邏輯要套在多種型別上」，不是「製造多餘的抽象」，明明邏輯一模一樣的函式，換個型別就得再複製貼上一份：SumInts、SumFloats、SumStrings。泛型從 Go 1.18 加進語言後這件事就有解了，且在 Go 1.27 還加入了泛型函式的功能。
 <!--END_SECTION:feed-->
 
