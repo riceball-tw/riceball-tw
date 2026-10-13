@@ -8,6 +8,10 @@
 ---
 
 <!--START_SECTION:feed-->
+#### [Building an automated release branch sync tool with Bash](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;build-a-git-release-backporting-tool&#x2F;) 
+once a release branch is fork from trunk, every hotfix over the next week or two must be cherry-picked back to the release branch, that&#39;s a problem
+#### [使用 Bash 制作一个 release 分支自动同步工具](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;build-a-git-release-backporting-tool&#x2F;) 
+注意到一个反复出现却又容易被低估的痛点：从主干分支切出 release 分支后，接下来一到两周内，每个合入主干的 hotfix 都必须被 cherry-pick 到 release 分支，而任何一个错误都会让 release 分支处于不一致的状态。
 #### [使用 Bash 製作一個 release 分支自動同步工具](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;build-a-git-release-backporting-tool&#x2F;) 
 注意到一個反覆出現卻又容易被低估的痛點：當從主幹分支切出 release 分支後，接下來一到兩週內，每個落在主幹上的 hotfix 都必須被 cherry-pick 回到 release 分支，而任何一個錯誤都會讓 release 分支處於不一致的狀態。
 #### [How to Use SSH Keys for Secure Passwordless Connections](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;ssh-auth-key&#x2F;) 
@@ -16,9 +20,5 @@ I set up HTTP&#x2F;SSH authentication for Git so long ago that I&#39;ve forgotte
 还记得刚开始向 GitHub 推送代码时，首要任务就是通过设置 HTTP 或 SSH 认证方式来执行 git 操作。由于很早以前设置好后就忘了当时的具体操作，最近在处理服务器连接时，又想到应该深入理解并记录其背后的原理与相关安全机制。
 #### [如何使用 SSH Key 進行安全無密碼連線](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-tw&#x2F;post&#x2F;ssh-auth-key&#x2F;) 
 記得剛開始推代碼到 GitHub 時，首要的事情就是透過設置 HTTP 或 SSH 驗證的方式進行 git 操作，很早以前設置完後就忘了當時是怎麼設置的，近期在處理伺服器連線又想起來應該要熟悉寫下來背後的原理與相關的安全機制。
-#### [Notes on Using Go Generics](https:&#x2F;&#x2F;www.webdong.dev&#x2F;en&#x2F;post&#x2F;go-generic&#x2F;) 
-When functions have exactly the same logic, changing the type used to mean copying and pasting another version: SumInts, SumFloats, SumStrings...
-#### [Go 泛型使用笔记](https:&#x2F;&#x2F;www.webdong.dev&#x2F;zh-cn&#x2F;post&#x2F;go-generic&#x2F;) 
-泛型解决的是「同一段逻辑要套在多种类型上」，不是「制造多余的抽象」，明明逻辑一模一样的函数，换个类型就得再复制粘贴一份：SumInts、SumFloats、SumStrings。泛型从 Go 1.18 加入语言后，这件事就有解了，并且在 Go 1.27 还加入了泛型函数的功能。
 <!--END_SECTION:feed-->
 
